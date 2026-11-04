@@ -1,0 +1,444 @@
+{
+  "atualizado": "2026-11-04",
+  "destaque": {
+    "titulo": "Amazônia tem o menor desmatamento desde 1988",
+    "texto": "A estimativa do PRODES 2026 aponta 3.335 km² desmatados na Amazônia entre agosto de 2025 e julho de 2026. É uma queda de 41,8% sobre o ciclo anterior e o menor valor da série do INPE. O Cerrado também teve o menor valor desde 2001.",
+    "data": "2026-10-16",
+    "url": "https://www.poder360.com.br/poder-sustentavel/desmatamento-cai-na-amazonia-e-no-cerrado-em-2026/",
+    "fonte": "Poder360, com dados do INPE"
+  },
+  "status": {
+    "acelerando": "Avança mais rápido que antes, ou bateu recorde positivo no último dado oficial.",
+    "em_curso": "Avança de forma constante, sem sinal de virada para pior.",
+    "atrasado": "Avança, mas abaixo do ritmo necessário para cumprir a própria meta."
+  },
+  "crises": [
+    {
+      "id": "rs-enchentes",
+      "nome": "Enchentes no Rio Grande do Sul",
+      "tipo": "enchente",
+      "ufs": [
+        "RS"
+      ],
+      "fase": "prevencao",
+      "situacao": "Em julho de 2026, as chuvas atingiram 59.967 pessoas em 218 municípios, com 488 desabrigados, a maioria no Vale do Taquari (Lajeado, Encantado e Estrela). Agora o risco é o que vem: o Painel El Niño de 29/10 prevê chuva acima da média no Sul de novembro a janeiro, com atenção a cheias no RS.",
+      "data": "2026-10-29",
+      "quem": [
+        {
+          "nome": "Defesa Civil do RS",
+          "faz": "Coordena alertas, abrigos e o canal oficial de doações do estado.",
+          "url": "https://www.defesacivil.rs.gov.br/",
+          "tipo": "governo"
+        },
+        {
+          "nome": "Defesa Civil Nacional",
+          "faz": "Atuou no estado em julho com resposta, assistência humanitária e recuperação, e reconheceu emergência em 17 municípios.",
+          "url": "https://www.gov.br/mdr/pt-br/assuntos/protecao-e-defesa-civil",
+          "tipo": "governo"
+        },
+        {
+          "nome": "Cruz Vermelha Brasileira",
+          "faz": "Ajuda humanitária, voluntariado e apoio a desabrigados por meio das filiais estaduais.",
+          "url": "https://cruzvermelha.org.br/",
+          "tipo": "sociedade"
+        },
+        {
+          "nome": "Ação da Cidadania",
+          "faz": "Campanhas de alimentos e doações para famílias atingidas.",
+          "url": "https://www.acaodacidadania.org.br/",
+          "tipo": "sociedade"
+        }
+      ],
+      "como_ajudar": [
+        "Cadastre o CEP para receber alertas da Defesa Civil por SMS: mande o CEP para 40199.",
+        "Doe só por canal oficial do estado, da prefeitura ou de entidade conhecida. Em 2024 circularam golpes de falsas vaquinhas e marmitas.",
+        "Quem mora no Vale do Taquari ou perto dos rios dos Sinos, Jacuí e Uruguai: tenha rota de saída e documentos em saco plástico."
+      ],
+      "fontes": [
+        {
+          "titulo": "Chuvas no RS atingem mais de 59 mil pessoas (27/07/2026)",
+          "url": "https://www.opovo.com.br/noticias/brasil/2026/07/27/chuvas-no-rio-grande-do-sul-atingem-mais-de-59-mil-pessoas.html",
+          "tipo": "imprensa"
+        },
+        {
+          "titulo": "Painel El Niño: boletim de outubro (29/10/2026)",
+          "url": "https://portal.inmet.gov.br/noticias/painel-el-nino-boletim-de-outubro-e-divulgado",
+          "tipo": "oficial"
+        }
+      ]
+    },
+    {
+      "id": "am-estiagem",
+      "nome": "Estiagem no Amazonas",
+      "tipo": "seca",
+      "ufs": [
+        "AM",
+        "AC",
+        "RR"
+      ],
+      "fase": "resposta",
+      "situacao": "A estiagem já atinge mais de 101 mil famílias no Amazonas, segundo boletim da Defesa Civil de 18/10, com 8.165 focos de calor no estado até essa data. Comunidades ribeirinhas ficam isoladas quando os rios baixam. Roraima e Acre também tiveram agravamento da seca em agosto.",
+      "data": "2026-10-21",
+      "quem": [
+        {
+          "nome": "Defesa Civil do Amazonas",
+          "faz": "Monitora os municípios, decreta emergência e leva água e alimentos às comunidades isoladas.",
+          "url": "https://www.defesacivil.am.gov.br/",
+          "tipo": "governo"
+        },
+        {
+          "nome": "Cemaden",
+          "faz": "Instalou cerca de 30 pluviômetros novos no estado, somados aos 73 existentes, para planejar abastecimento e transporte fluvial.",
+          "url": "https://www.gov.br/cemaden/pt-br",
+          "tipo": "governo"
+        },
+        {
+          "nome": "Instituto Mamirauá",
+          "faz": "Pesquisa o Lago Tefé e sistemas de água movidos a energia solar para comunidades do Médio Solimões.",
+          "url": "https://www.mamiraua.org.br/",
+          "tipo": "ciencia"
+        }
+      ],
+      "como_ajudar": [
+        "Apoie organizações que já trabalham na região, em vez de mandar donativos por conta própria: o transporte pelos rios secos é o gargalo.",
+        "Acompanhe os boletins da Defesa Civil do Amazonas para saber quais municípios estão em emergência."
+      ],
+      "fontes": [
+        {
+          "titulo": "Estiagem já atinge mais de 101 mil famílias no Amazonas (21/10/2026)",
+          "url": "https://www.correiodamanha.com.br/nacional/norte/2026/10/328547-estiagem-ja-atinge-mais-de-101-mil-familias-no-amazonas.html",
+          "tipo": "imprensa"
+        }
+      ]
+    },
+    {
+      "id": "ne-seca",
+      "nome": "Seca no Semiárido",
+      "tipo": "seca",
+      "ufs": [
+        "CE",
+        "RN",
+        "PB",
+        "PE",
+        "AL",
+        "SE",
+        "BA",
+        "PI",
+        "MA"
+      ],
+      "fase": "prevencao",
+      "situacao": "O El Niño eleva o risco de chuva abaixo da média em partes do Nordeste. Em setembro, 47 açudes analisados tinham menos de 10% de água. A Embrapa lembra que a região entra neste episódio com mais água guardada do que em 2015/2016.",
+      "data": "2026-09-03",
+      "quem": [
+        {
+          "nome": "Governo federal (Novo PAC)",
+          "faz": "Plano de R$ 10,2 bilhões: recuperação de 162 reservatórios, 172,4 mil cisternas e 2.800 km de canais e adutoras.",
+          "url": "https://economicnewsbrasil.com.br/2026/09/03/el-nino-no-nordeste-seguranca-hidrica/",
+          "tipo": "governo"
+        },
+        {
+          "nome": "Operação Carro-Pipa (Exército)",
+          "faz": "Leva água a cerca de 1,6 milhão de pessoas por mês em localidades com escassez crítica.",
+          "url": "https://www.gov.br/mdr/pt-br/assuntos/protecao-e-defesa-civil",
+          "tipo": "governo"
+        },
+        {
+          "nome": "ASA – Articulação Semiárido Brasileiro",
+          "faz": "Rede de mais de mil organizações que constrói cisternas e tecnologias de convivência com a seca há mais de 20 anos.",
+          "url": "https://www.asabrasil.org.br/",
+          "tipo": "sociedade"
+        },
+        {
+          "nome": "Embrapa Semiárido",
+          "faz": "Pesquisa e orienta produtores sobre manejo de água e culturas resistentes à seca.",
+          "url": "https://www.embrapa.br/semiarido",
+          "tipo": "ciencia"
+        }
+      ],
+      "como_ajudar": [
+        "Doações para cisternas e tecnologias de captação de água têm efeito que dura anos, ao contrário da água engarrafada.",
+        "Quem produz no Semiárido: procure a assistência técnica da Embrapa ou da extensão rural do estado antes do plantio."
+      ],
+      "fontes": [
+        {
+          "titulo": "El Niño no Nordeste encontra R$ 10 bi em obras e 71 açudes abaixo de 20% (03/09/2026)",
+          "url": "https://economicnewsbrasil.com.br/2026/09/03/el-nino-no-nordeste-seguranca-hidrica/",
+          "tipo": "imprensa"
+        },
+        {
+          "titulo": "Governo reúne gestores do Nordeste contra impactos do El Niño (ago/2026)",
+          "url": "https://jornalgrandebahia.com.br/2026/08/governo-lula-reune-gestores-do-nordeste-para-preparar-acoes-contra-impactos-do-el-nino/",
+          "tipo": "imprensa"
+        }
+      ]
+    },
+    {
+      "id": "el-nino-alerta",
+      "nome": "Alerta e preparo para o El Niño",
+      "tipo": "prevencao",
+      "ufs": [],
+      "fase": "prevencao",
+      "situacao": "O El Niño 2026/2027 deve chegar à intensidade 'muito forte' a partir de novembro. A previsão de novembro a janeiro é de chuva acima da média no Sul e em partes do Sudeste, chuva abaixo da média em grande parte do Norte e calor acima do normal em quase todo o país.",
+      "data": "2026-10-29",
+      "quem": [
+        {
+          "nome": "Painel El Niño",
+          "faz": "Boletim mensal conjunto de INMET, INPE, ANA, Cemaden, SGB, SEDEC e Censipam, com previsão por região.",
+          "url": "https://portal.inmet.gov.br/noticias/painel-el-nino-boletim-de-outubro-e-divulgado",
+          "tipo": "governo"
+        },
+        {
+          "nome": "Cemaden",
+          "faz": "Monitora riscos de desastre em tempo real e orienta planos de contingência; publicou nota técnica para preparar as escolas.",
+          "url": "https://www.gov.br/cemaden/pt-br",
+          "tipo": "ciencia"
+        },
+        {
+          "nome": "ANA – Agência Nacional de Águas",
+          "faz": "Plano de preparação para os recursos hídricos no ciclo 2026/2027, com salas de situação regionais.",
+          "url": "https://www.gov.br/ana/pt-br/assuntos/monitoramento-e-eventos-criticos/eventos-criticos/outros/26-09_plano_preparacao_el_nino_versao-1.pdf",
+          "tipo": "governo"
+        }
+      ],
+      "como_ajudar": [
+        "Cadastre o seu CEP no 40199 para receber alertas da Defesa Civil por SMS.",
+        "Pergunte na sua prefeitura se o plano de contingência foi revisado este ano e onde ficam os abrigos."
+      ],
+      "fontes": [
+        {
+          "titulo": "Painel El Niño: boletim de outubro (29/10/2026)",
+          "url": "https://portal.inmet.gov.br/noticias/painel-el-nino-boletim-de-outubro-e-divulgado",
+          "tipo": "oficial"
+        },
+        {
+          "titulo": "Plano de preparação da ANA para o El Niño (set/2026)",
+          "url": "https://www.gov.br/ana/pt-br/assuntos/monitoramento-e-eventos-criticos/eventos-criticos/outros/26-09_plano_preparacao_el_nino_versao-1.pdf",
+          "tipo": "oficial"
+        }
+      ]
+    }
+  ],
+  "projetos": [
+    {
+      "id": "muralha-verde",
+      "nome": "Grande Muralha Verde",
+      "onde": "Sahel, da Mauritânia ao Djibuti",
+      "categoria": "terra",
+      "paises": [
+        "478",
+        "686",
+        "466",
+        "854",
+        "562",
+        "566",
+        "148",
+        "729",
+        "232",
+        "231",
+        "262"
+      ],
+      "status": "atrasado",
+      "meta": "Restaurar 100 milhões de hectares até 2030",
+      "progresso": 20,
+      "progresso_rotulo": "cerca de 20 milhões de ha",
+      "resumo": "Faixa de 8 mil km de terra recuperada na borda do Saara. Agricultores, governos e a ONU plantam árvores, cavam meias-luas para segurar a chuva e deixam a vegetação nativa rebrotar. Em agosto de 2026, a ONU falou em mais de 20 milhões de hectares restaurados. Para cumprir a meta seriam precisos cerca de 8 milhões de hectares por ano.",
+      "quem": "UNCCD, União Africana, governos do Sahel e milhões de agricultores",
+      "url": "https://www.unccd.int/our-work/ggwi",
+      "fonte": "UNCCD / ONU"
+    },
+    {
+      "id": "amazonia",
+      "nome": "Queda do desmatamento na Amazônia",
+      "onde": "Brasil",
+      "categoria": "floresta",
+      "paises": [
+        "076"
+      ],
+      "status": "acelerando",
+      "meta": "Desmatamento zero até 2030 (compromisso do governo federal)",
+      "progresso": null,
+      "progresso_rotulo": "3.335 km² em 2026, menor da série",
+      "resumo": "Estimativa do PRODES 2026: 3.335 km² desmatados, queda de 41,8% e menor valor desde 1988. O recorde anterior era de 4.571 km², em 2012. A taxa ainda é estimativa e será consolidada.",
+      "quem": "INPE, Ibama, ICMBio, Polícia Federal, estados e povos da floresta",
+      "url": "https://www.poder360.com.br/poder-sustentavel/desmatamento-cai-na-amazonia-e-no-cerrado-em-2026/",
+      "fonte": "INPE (PRODES), via Poder360"
+    },
+    {
+      "id": "mata-atlantica",
+      "nome": "Pacto pela Restauração da Mata Atlântica",
+      "onde": "Brasil, do Rio Grande do Norte ao Rio Grande do Sul",
+      "categoria": "floresta",
+      "paises": [
+        "076"
+      ],
+      "status": "em_curso",
+      "meta": "15 milhões de hectares restaurados até 2050",
+      "progresso": 5,
+      "progresso_rotulo": "mais de 700 mil ha em restauração (estimativa)",
+      "resumo": "Coalizão de mais de 300 organizações que recupera a floresta mais devastada do país, combinando plantio e regeneração natural. A ONU reconheceu o Pacto como uma das iniciativas-referência da Década da Restauração.",
+      "quem": "Mais de 300 ONGs, empresas, governos e universidades",
+      "url": "https://pactomataatlantica.org.br/",
+      "fonte": "Pacto pela Restauração da Mata Atlântica"
+    },
+    {
+      "id": "ozonio",
+      "nome": "Recuperação da camada de ozônio",
+      "onde": "O planeta inteiro",
+      "categoria": "clima",
+      "paises": [],
+      "global": true,
+      "status": "em_curso",
+      "meta": "Voltar aos níveis de 1980 por volta de 2040 (2066 sobre a Antártida)",
+      "progresso": null,
+      "progresso_rotulo": "em recuperação desde 2000",
+      "resumo": "O Protocolo de Montreal (1987) baniu os gases que destruíam o ozônio, e é o único tratado da ONU ratificado por todos os países. Segundo a OMM, a camada se recupera desde 2000 e o buraco de 2024 foi menor que nos anos anteriores.",
+      "quem": "Todos os países signatários do Protocolo de Montreal, OMM e PNUMA",
+      "url": "https://wmo.int/media/news/wmo-bulletin-shows-successes-and-challenges-ozone-layer-recovery",
+      "fonte": "OMM"
+    },
+    {
+      "id": "verme-guine",
+      "nome": "Fim do verme-da-Guiné",
+      "onde": "Chade, Etiópia e Sudão do Sul",
+      "categoria": "saude",
+      "paises": [
+        "148",
+        "231",
+        "728"
+      ],
+      "status": "acelerando",
+      "meta": "Zero casos: seria a segunda doença humana erradicada, depois da varíola",
+      "progresso": 99,
+      "progresso_rotulo": "10 casos humanos em 2025 (eram 3,5 milhões por ano em 1986)",
+      "resumo": "Sem vacina e sem remédio, só com água filtrada e educação nas aldeias. Foram 10 casos humanos em 2025, o menor número da história. O obstáculo agora são as infecções em animais, como cães.",
+      "quem": "Carter Center, OMS e agentes de saúde voluntários nas aldeias",
+      "url": "https://www.healio.com/news/infectious-disease/20260313/guinea-worm-nears-eradication-carter-center-says",
+      "fonte": "Carter Center"
+    },
+    {
+      "id": "polio",
+      "nome": "Erradicação da pólio",
+      "onde": "Afeganistão e Paquistão (últimos com vírus selvagem)",
+      "categoria": "saude",
+      "paises": [
+        "004",
+        "586"
+      ],
+      "status": "em_curso",
+      "meta": "Zero casos de pólio selvagem no mundo",
+      "progresso": 99,
+      "progresso_rotulo": "26 casos em 2026 até setembro (52 em 2025)",
+      "resumo": "O vírus selvagem só circula em dois países. Até setembro de 2026 foram 23 casos no Afeganistão e 3 no Paquistão, contra 52 no ano inteiro de 2025. Em 1988 eram cerca de 350 mil casos por ano.",
+      "quem": "GPEI (OMS, UNICEF, Rotary, Fundação Gates) e vacinadores locais",
+      "url": "https://kabulnow.com/2026/09/afghanistan-records-four-new-polio-cases-total-rises-to-23-who-says/",
+      "fonte": "OMS, via KabulNow"
+    },
+    {
+      "id": "malaria",
+      "nome": "Países livres da malária",
+      "onde": "Egito, Cabo Verde, Geórgia, Suriname e Timor-Leste, entre outros",
+      "categoria": "saude",
+      "paises": [
+        "818",
+        "132",
+        "268",
+        "740",
+        "626"
+      ],
+      "status": "acelerando",
+      "meta": "Eliminar a malária país a país",
+      "progresso": null,
+      "progresso_rotulo": "5 certificações da OMS em 2024–2025",
+      "resumo": "A OMS só certifica um país depois de 3 anos seguidos sem nenhum caso transmitido localmente. Egito e Cabo Verde em 2024; Geórgia, Suriname e Timor-Leste em 2025. Timor-Leste recebeu o certificado em maio de 2026.",
+      "quem": "OMS, ministérios da saúde e agentes comunitários",
+      "url": "https://www.who.int/teams/global-malaria-programme/elimination/countries-and-territories-certified-malaria-free-by-who",
+      "fonte": "OMS"
+    },
+    {
+      "id": "jubartes",
+      "nome": "Volta das baleias-jubarte",
+      "onde": "Costa brasileira, de Abrolhos (BA) ao Sul",
+      "categoria": "fauna",
+      "paises": [
+        "076"
+      ],
+      "status": "em_curso",
+      "meta": "Voltar ao tamanho anterior à caça comercial",
+      "progresso": 93,
+      "progresso_rotulo": "cerca de 25 mil, 93% da população original",
+      "resumo": "A população do Atlântico Sul Ocidental chegou a cerca de 450 animais nos anos 1950. Com o fim da caça e a proteção de Abrolhos, um estudo de 2019 estimou cerca de 25 mil jubartes.",
+      "quem": "Instituto Baleia Jubarte, ICMBio e pesquisadores",
+      "url": "https://royalsocietypublishing.org/doi/10.1098/rsos.190368",
+      "fonte": "Royal Society Open Science (2019)"
+    },
+    {
+      "id": "aral-norte",
+      "nome": "Mar de Aral do Norte",
+      "onde": "Cazaquistão",
+      "categoria": "agua",
+      "paises": [
+        "398"
+      ],
+      "status": "em_curso",
+      "meta": "Recuperar o lago e a pesca na parte norte",
+      "progresso": null,
+      "progresso_rotulo": "volume +68%, salinidade −50%",
+      "resumo": "O Mar de Aral quase sumiu por causa da irrigação. Em 2005, o Cazaquistão concluiu o dique de Kok-Aral, com apoio do Banco Mundial, e a parte norte voltou a encher: o volume subiu 68% e a salinidade caiu pela metade. Peixes de água doce voltaram e, em 2008, a região exportou peixe pela primeira vez.",
+      "quem": "Governo do Cazaquistão, Banco Mundial e pescadores locais",
+      "url": "https://documents.worldbank.org/en/publication/documents-reports/documentdetail/668681468050713490/miraculous-catch-in-kazakhstans-northern-aral-sea",
+      "fonte": "Banco Mundial"
+    },
+    {
+      "id": "costa-rica",
+      "nome": "Floresta de volta na Costa Rica",
+      "onde": "Costa Rica",
+      "categoria": "floresta",
+      "paises": [
+        "188"
+      ],
+      "status": "em_curso",
+      "meta": "60% do território com floresta até 2050",
+      "progresso": 88,
+      "progresso_rotulo": "mais de 53% de floresta (2019)",
+      "resumo": "Depois de décadas de desmatamento, a Costa Rica pagou donos de terra para proteger e recuperar floresta, a partir de 1996. Em 2019, quando recebeu o prêmio Campeões da Terra da ONU, a cobertura passava de 53% do país. A meta é 60% até 2050.",
+      "quem": "FONAFIFO, proprietários rurais e o governo da Costa Rica",
+      "url": "https://www.unep.org/news-and-stories/press-release/costa-rica-named-un-champion-earth-pioneering-role-fighting-climate",
+      "fonte": "PNUMA (2019)"
+    },
+    {
+      "id": "loess",
+      "nome": "Platô de Loess",
+      "onde": "China",
+      "categoria": "terra",
+      "paises": [
+        "156"
+      ],
+      "status": "em_curso",
+      "meta": "Recuperar encostas erodidas e a renda de quem vive nelas",
+      "progresso": null,
+      "progresso_rotulo": "35 mil km² em 1.223 microbacias",
+      "resumo": "Uma das regiões mais erodidas do mundo virou terraços verdes. O projeto apoiado pelo Banco Mundial (1994–2005) fechou encostas ao pastoreio, criou terraços e replantou em 35 mil km². Segundo o Banco, a produção e a renda de 2,5 milhões de pessoas aumentaram, e mais de 100 milhões de toneladas de sedimento deixaram de descer para o rio Amarelo.",
+      "quem": "Governo chinês, Banco Mundial e as famílias do platô",
+      "url": "https://documents1.worldbank.org/curated/en/476031467998470786/pdf/103546-BRI-PUBLIC-ADD-SERIES-China-Country-Office-Project-Summary-Note.pdf",
+      "fonte": "Banco Mundial"
+    }
+  ],
+  "fontes_gerais": [
+    {
+      "titulo": "Painel El Niño (INMET)",
+      "url": "https://portal.inmet.gov.br/"
+    },
+    {
+      "titulo": "PRODES / INPE",
+      "url": "https://terrabrasilis.dpi.inpe.br/"
+    },
+    {
+      "titulo": "UNCCD – Grande Muralha Verde",
+      "url": "https://www.unccd.int/our-work/ggwi"
+    },
+    {
+      "titulo": "Cemaden",
+      "url": "https://www.gov.br/cemaden/pt-br"
+    }
+  ]
+}
