@@ -7,6 +7,8 @@ Quem está consertando o mundo, e onde. Um site estático em uma página que mos
 
 Todo número tem link para a fonte. Estimativa aparece como estimativa.
 
+No ar: https://regeneracao.coderstudio.club
+
 ## Estrutura
 
 ```
