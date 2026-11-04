@@ -1,7 +1,7 @@
 {
   "titulo": "Quem está consertando o mundo, com fonte",
   "formato": "shorts",
-  "tema": "youtube",
+  "tema": "terrasia",
   "lang": "pt-BR",
   "voice": "pt-BR-FranciscaNeural",
   "rate": "-8%",
@@ -73,7 +73,7 @@
     {
       "layout": "fecho",
       "kick": "Painel aberto",
-      "headline": "regeneracao.<br><em>coderstudio.club</em>",
+      "headline": "regeneracao.<br><em>coderstudio<br>.club</em>",
       "sub": "Todo número com link para a fonte. <b>Atualizado todo dia.</b>",
       "narration": "Todo número tem link para a fonte, e o painel se atualiza sozinho todo dia de manhã. Que projeto do bem você acompanha e acha que pouca gente conhece?"
     }
