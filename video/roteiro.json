@@ -1,0 +1,83 @@
+{
+  "titulo": "Quem está consertando o mundo, com fonte",
+  "formato": "shorts",
+  "tema": "youtube",
+  "lang": "pt-BR",
+  "voice": "pt-BR-FranciscaNeural",
+  "rate": "-8%",
+  "kick": "Regeneração",
+  "foot": "regeneracao.coderstudio.club",
+  "foot_label": "Painel ao vivo",
+  "counter": true,
+  "out": "/home/support/Documents/regeneracao/video/out/video.mp4",
+  "blocks": [
+    {
+      "remotion": {
+        "composicao": "Numero",
+        "props": {
+          "valor": 3335,
+          "sufixo": " km²",
+          "rotulo": "de desmatamento na Amazônia em 2026",
+          "apoio": "Menor valor desde 1988 · estimativa do INPE"
+        }
+      },
+      "narration": "Três mil, trezentos e trinta e cinco quilômetros quadrados. É a estimativa do INPE para o desmatamento na Amazônia em 2026. O menor número desde 1988."
+    },
+    {
+      "layout": "abertura",
+      "kick": "Por que existe",
+      "headline": "Notícia boa<br><em>precisa de fonte</em>",
+      "sub": "Um painel com <b>quem está consertando o mundo</b>, e onde.",
+      "narration": "Notícia ruim viaja sozinha. Notícia boa precisa de alguém que junte, confira e mostre onde ela está acontecendo. Foi para isso que eu montei o Monitor de Regeneração."
+    },
+    {
+      "remotion": {
+        "composicao": "Barras",
+        "props": {
+          "titulo": "Grande Muralha Verde: atrasada",
+          "sufixo": " mi ha",
+          "itens": [
+            {
+              "rotulo": "Restaurado até 2026",
+              "valor": 20,
+              "destaque": true
+            },
+            {
+              "rotulo": "Meta para 2030",
+              "valor": 100
+            }
+          ]
+        }
+      },
+      "narration": "Mas otimismo sem conta vira propaganda. A Grande Muralha Verde, no Sahel, já recuperou cerca de vinte milhões de hectares. A meta é cem milhões até 2030. Por isso, no painel, ela aparece como atrasada."
+    },
+    {
+      "layout": "lista",
+      "kick": "No Brasil, agora",
+      "headline": "Quem está<br><em>ajudando</em>",
+      "list": [
+        "Defesa Civil: alertas e abrigos no RS",
+        "Cemaden: pluviômetros no Amazonas",
+        "Mamirauá: água solar no Solimões",
+        "ASA: cisternas no Semiárido"
+      ],
+      "narration": "No Brasil, cada crise mostra quem está trabalhando nela. Defesa Civil nas enchentes do Rio Grande do Sul. Cemaden e Instituto Mamirauá na seca do Amazonas. A rede ASA com cisternas no Semiárido."
+    },
+    {
+      "layout": "declaracao",
+      "kick": "Dica que vale para todos",
+      "headline": "Mande seu CEP<br>por SMS para <em>40199</em>",
+      "sub": "E receba os alertas da <b>Defesa Civil</b> no celular.",
+      "narration": "O Painel do El Niño prevê chuva acima da média no Sul até janeiro. Então fica a dica: mande o seu CEP por SMS para quatro, zero, um, nove, nove, e receba os alertas da Defesa Civil."
+    },
+    {
+      "layout": "fecho",
+      "kick": "Painel aberto",
+      "headline": "regeneracao.<br><em>coderstudio.club</em>",
+      "sub": "Todo número com link para a fonte. <b>Atualizado todo dia.</b>",
+      "narration": "Todo número tem link para a fonte, e o painel se atualiza sozinho todo dia de manhã. Que projeto do bem você acompanha e acha que pouca gente conhece?"
+    }
+  ],
+  "aprovado": true,
+  "aprovado_em": "2026-11-04T14:10:35"
+}

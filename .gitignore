@@ -1,3 +1,5 @@
 .wrangler/
 node_modules/
 .DS_Store
+video/out/
+video/*.log
