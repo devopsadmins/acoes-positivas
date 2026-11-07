@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-11-05",
+  "atualizado": "2026-11-07",
   "destaque": {
     "titulo": "Amazônia tem o menor desmatamento desde 1988",
     "texto": "A estimativa do PRODES 2026 aponta 3.335 km² desmatados na Amazônia entre agosto de 2025 e julho de 2026. É uma queda de 41,8% sobre o ciclo anterior e o menor valor da série do INPE. O Cerrado também teve o menor valor desde 2001.",
@@ -15,18 +15,18 @@
   "crises": [
     {
       "id": "rs-enchentes",
-      "nome": "Enchentes no Rio Grande do Sul",
+      "nome": "Temporais e enchentes no Rio Grande do Sul",
       "tipo": "enchente",
       "ufs": [
         "RS"
       ],
-      "fase": "prevencao",
-      "situacao": "Em julho de 2026, as chuvas atingiram 59.967 pessoas em 218 municípios, com 488 desabrigados, a maioria no Vale do Taquari (Lajeado, Encantado e Estrela). Agora o risco é o que vem: o Painel El Niño de 29/10 prevê chuva acima da média no Sul de novembro a janeiro, com atenção a cheias no RS.",
-      "data": "2026-10-29",
+      "fase": "resposta",
+      "situacao": "Desde 1º de novembro, tempestades com granizo, vento e chuva forte atingiram mais de 20 mil pessoas em 84 municípios, segundo balanço da Defesa Civil de 04/11. Em Sananduva choveu 130 mm em uma hora. Em Nova Prata, 15 pessoas ficaram feridas e mais de 2 mil estruturas foram danificadas, entre casas e escolas. Em 06/11 a Defesa Civil alertou para novos temporais no Norte e Noroeste, com o rio Uruguai acima da cota de inundação em Barra do Guarita. O Painel El Niño prevê chuva acima da média no Sul até janeiro.",
+      "data": "2026-11-06",
       "quem": [
         {
           "nome": "Defesa Civil do RS",
-          "faz": "Coordena alertas, abrigos e o canal oficial de doações do estado.",
+          "faz": "Emite alertas por SMS e cell broadcast, instalou gabinete de crise em Nova Prata e enviou 3 mil telhas e 280 colchões às famílias atingidas.",
           "url": "https://www.defesacivil.rs.gov.br/",
           "tipo": "governo"
         },
@@ -56,9 +56,19 @@
       ],
       "fontes": [
         {
-          "titulo": "Chuvas no RS atingem mais de 59 mil pessoas (27/07/2026)",
-          "url": "https://www.opovo.com.br/noticias/brasil/2026/07/27/chuvas-no-rio-grande-do-sul-atingem-mais-de-59-mil-pessoas.html",
+          "titulo": "Defesa Civil registra mais de 20 mil pessoas afetadas por tempestades no RS (04/11/2026)",
+          "url": "https://www.jornaldocomercio.com/geral/2026/11/1269305-defesa-civil-registra-mais-de-20-mil-pessoas-afetadas-por-tempestades-no-rs.html",
           "tipo": "imprensa"
+        },
+        {
+          "titulo": "Defesa Civil do Estado apoia Nova Prata após tempestades (05/11/2026)",
+          "url": "https://www.defesacivil.rs.gov.br/defesa-civil-do-estado-apoia-municipio-de-nova-prata-apos-tempestades",
+          "tipo": "oficial"
+        },
+        {
+          "titulo": "Tempestades voltam a atingir o RS a partir de sexta-feira (06/11/2026)",
+          "url": "https://www.defesacivil.rs.gov.br/tempestades-voltam-a-atingir-o-rio-grande-do-sul-a-partir-desta-sexta-feira-6",
+          "tipo": "oficial"
         },
         {
           "titulo": "Painel El Niño: boletim de outubro (29/10/2026)",
