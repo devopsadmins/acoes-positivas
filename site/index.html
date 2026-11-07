@@ -19,7 +19,9 @@
 <meta name="theme-color" content="#14201a">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,700&family=Public+Sans:wght@400;600;700&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<link rel="preload" as="image" type="image/webp" imagesrcset="img/hero-640.webp 640w, img/hero-1055.webp 1055w, img/hero-1536.webp 1536w" imagesizes="100vw" fetchpriority="high">
+<link rel="stylesheet" media="print" onload="this.media='all'" href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,700&family=Public+Sans:wght@400;600;700&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,700&family=Public+Sans:wght@400;600;700&family=IBM+Plex+Mono:wght@400;500&display=swap"></noscript>
 <style>
 :root {
   --paper: #f5f2ea;
@@ -32,7 +34,7 @@
   --accent: #2c7a4b;
   --acelerando: #2c7a4b;
   --em_curso: #2f6f9a;
-  --atrasado: #c08418;
+  --atrasado: #8a5a0c;
   --enchente: #2f6db5;
   --seca: #b5672c;
   --prevencao: #6b5aa6;
@@ -86,6 +88,8 @@ img { max-width: 100%; display: block; }
 /* Destaque */
 .destaque { margin-top: -28px; position: relative; z-index: 2; background: var(--panel); border: 1px solid var(--line); border-left: 6px solid var(--acelerando); border-radius: 10px; padding: 20px 22px; box-shadow: 0 10px 30px rgba(0,0,0,.08); }
 .destaque .rot { font: 500 12px/1 var(--font-mono); letter-spacing: .1em; text-transform: uppercase; color: var(--acelerando); }
+.destaque:empty { min-height: 200px; }
+@media (max-width: 640px) { .destaque:empty { min-height: 296px; } }
 .destaque h2 { font: 700 clamp(22px, 3vw, 30px)/1.15 var(--font-display); margin: 8px 0 8px; }
 .destaque p { margin: 0 0 8px; max-width: 820px; }
 .fonte { font: 400 13px/1.4 var(--font-mono); color: var(--muted); }
@@ -97,7 +101,7 @@ section { padding: 56px 0 8px; }
 .sec-head p { margin: 6px 0 0; color: var(--muted); max-width: 680px; }
 
 /* Filtros */
-.chips { display: flex; flex-wrap: wrap; gap: 8px; margin: 0 0 16px; }
+.chips { min-height: 34px; display: flex; flex-wrap: wrap; gap: 8px; margin: 0 0 16px; }
 .chip { font: 600 14px/1 var(--font-body); border: 1px solid var(--line); background: var(--panel); color: var(--ink); padding: 9px 14px; border-radius: 999px; cursor: pointer; display: inline-flex; align-items: center; gap: 8px; }
 .chip[aria-pressed="true"] { background: var(--ink); color: var(--paper); border-color: var(--ink); }
 .chip .dot { width: 10px; height: 10px; border-radius: 50%; }
@@ -118,7 +122,7 @@ section { padding: 56px 0 8px; }
 .crise.flash { box-shadow: 0 0 0 3px var(--c); }
 .crise header { display: flex; flex-wrap: wrap; gap: 6px 12px; align-items: baseline; justify-content: space-between; }
 .crise h3 { font: 700 22px/1.2 var(--font-display); margin: 0; }
-.tag { font: 500 11px/1 var(--font-mono); letter-spacing: .08em; text-transform: uppercase; padding: 5px 8px; border-radius: 4px; background: color-mix(in srgb, var(--c) 16%, transparent); color: var(--c); white-space: nowrap; }
+.tag { font: 500 11px/1 var(--font-mono); letter-spacing: .08em; text-transform: uppercase; padding: 5px 8px; border-radius: 4px; background: color-mix(in srgb, var(--c) 16%, transparent); color: color-mix(in srgb, var(--c) 68%, var(--ink)); white-space: nowrap; }
 .crise .sit { margin: 10px 0 14px; }
 .crise h4 { font: 500 12px/1 var(--font-mono); letter-spacing: .1em; text-transform: uppercase; color: var(--muted); margin: 16px 0 8px; }
 .quem { list-style: none; margin: 0; padding: 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(230px, 1fr)); gap: 10px; }
@@ -145,7 +149,7 @@ section { padding: 56px 0 8px; }
 .proj { background: var(--panel); border: 1px solid var(--line); border-radius: 10px; padding: 18px; display: flex; flex-direction: column; gap: 8px; scroll-margin-top: 16px; }
 .proj.flash { box-shadow: 0 0 0 3px var(--accent); }
 .proj .top { display: flex; justify-content: space-between; gap: 10px; align-items: center; }
-.proj .cat { font: 500 11px/1 var(--font-mono); letter-spacing: .08em; text-transform: uppercase; color: var(--c); display: inline-flex; align-items: center; gap: 6px; }
+.proj .cat { font: 500 11px/1 var(--font-mono); letter-spacing: .08em; text-transform: uppercase; color: color-mix(in srgb, var(--c) 68%, var(--ink)); display: inline-flex; align-items: center; gap: 6px; }
 .proj .cat i { width: 9px; height: 9px; border-radius: 50%; background: var(--c); }
 .st { font: 600 12px/1 var(--font-body); padding: 5px 9px; border-radius: 999px; color: var(--on-st); white-space: nowrap; }
 .proj h3 { font: 700 21px/1.2 var(--font-display); margin: 2px 0 0; }
@@ -181,7 +185,7 @@ footer a { color: var(--muted); }
 <body>
 
 <header class="hero">
-  <img src="img/hero.jpg" alt="Faixa de árvores recém-plantadas e covas de captação de água no Sahel, ao pôr do sol">
+  <img src="img/hero-1055.webp" srcset="img/hero-640.webp 640w, img/hero-1055.webp 1055w, img/hero-1536.webp 1536w" sizes="100vw" width="1536" height="1024" fetchpriority="high" decoding="async" alt="Faixa de árvores recém-plantadas e covas de captação de água no Sahel, ao pôr do sol">
   <div class="wrap">
     <div class="kicker">Monitor de Regeneração</div>
     <h1>Quem está consertando o mundo, e onde</h1>
@@ -249,9 +253,9 @@ footer a { color: var(--muted); }
   <p>Um irmão otimista do <a href="https://prontidao-civil.pages.dev/">Monitor de Prontidão Civil</a>.</p>
 </footer>
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/topojson-client@3.1.0/dist/topojson-client.min.js"></script>
-<script>
+<script defer src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js"></script>
+<script defer src="https://cdn.jsdelivr.net/npm/topojson-client@3.1.0/dist/topojson-client.min.js"></script>
+<script type="module">
 const TIPO = { enchente: "Enchente", seca: "Seca", prevencao: "Prevenção" };
 const FASE = { resposta: "Em resposta", prevencao: "Preparação" };
 const STATUS = { acelerando: "Acelerando", em_curso: "Em curso", atrasado: "Atrasado" };

@@ -1,0 +1,6 @@
+/img/*
+  Cache-Control: public, max-age=2592000, immutable
+/geo/*
+  Cache-Control: public, max-age=2592000
+/data.json
+  Cache-Control: public, max-age=300

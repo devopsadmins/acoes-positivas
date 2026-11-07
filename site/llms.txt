@@ -1,0 +1,11 @@
+# Monitor de Regeneração
+
+> Painel público que mostra quem está ajudando agora nas crises do Brasil (enchentes, seca, El Niño) e as grandes obras que estão recuperando o planeta. Todo número tem link para a fonte. Atualizado todo dia.
+
+## Dados
+
+- [data.json](https://regeneracao.coderstudio.club/data.json): todo o conteúdo do painel (crises, quem atua, como ajudar, projetos com meta, progresso, status e fonte)
+
+## Código
+
+- [Repositório](https://github.com/devopsadmins/acoes-positivas): código aberto do site
