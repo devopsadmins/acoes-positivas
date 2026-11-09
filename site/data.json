@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-11-08",
+  "atualizado": "2026-11-09",
   "destaque": {
     "titulo": "Amazônia tem o menor desmatamento desde 1988",
     "texto": "A estimativa do PRODES 2026 aponta 3.335 km² desmatados na Amazônia entre agosto de 2025 e julho de 2026. É uma queda de 41,8% sobre o ciclo anterior e o menor valor da série do INPE. O Cerrado também teve o menor valor desde 2001.",
@@ -21,12 +21,12 @@
         "RS"
       ],
       "fase": "resposta",
-      "situacao": "Desde 1º de novembro, tempestades com granizo, vento e chuva forte atingiram mais de 20 mil pessoas em 84 municípios, segundo balanço da Defesa Civil de 04/11. Em Sananduva choveu 130 mm em uma hora. Em Nova Prata, 15 pessoas ficaram feridas e mais de 2 mil estruturas foram danificadas, entre casas e escolas. Em 06/11 a Defesa Civil alertou para novos temporais no Norte e Noroeste, com o rio Uruguai acima da cota de inundação em Barra do Guarita. O Painel El Niño prevê chuva acima da média no Sul até janeiro.",
+      "situacao": "Desde 1º de novembro, tempestades com granizo, vento e chuva forte afetaram 70.491 pessoas em 136 municípios, segundo balanço da Defesa Civil de 06/11. São 28 feridos, 119 desabrigados, 471 desalojados e mais de 7 mil casas danificadas. Duas mortes estão em investigação. Em Sananduva choveu 130 mm em uma hora. O Painel El Niño prevê chuva acima da média no Sul até janeiro.",
       "data": "2026-11-06",
       "quem": [
         {
           "nome": "Defesa Civil do RS",
-          "faz": "Emite alertas por SMS e cell broadcast, instalou gabinete de crise em Nova Prata e enviou 3 mil telhas e 280 colchões às famílias atingidas.",
+          "faz": "Emite alertas por SMS e cell broadcast, instalou gabinete de crise em Nova Prata e envia telhas, colchões e kits de higiene aos municípios atingidos, como Espumoso.",
           "url": "https://www.defesacivil.rs.gov.br/",
           "tipo": "governo"
         },
@@ -56,6 +56,11 @@
       ],
       "fontes": [
         {
+          "titulo": "Municípios afetados por temporais recebem suporte da Defesa Civil estadual (06/11/2026)",
+          "url": "https://estado.rs.gov.br/municipios-afetados-por-temporais-recebem-suporte-da-defesa-civil-estadual",
+          "tipo": "oficial"
+        },
+        {
           "titulo": "Defesa Civil registra mais de 20 mil pessoas afetadas por tempestades no RS (04/11/2026)",
           "url": "https://www.jornaldocomercio.com/geral/2026/11/1269305-defesa-civil-registra-mais-de-20-mil-pessoas-afetadas-por-tempestades-no-rs.html",
           "tipo": "imprensa"
@@ -74,6 +79,36 @@
           "titulo": "Painel El Niño: boletim de outubro (29/10/2026)",
           "url": "https://portal.inmet.gov.br/noticias/painel-el-nino-boletim-de-outubro-e-divulgado",
           "tipo": "oficial"
+        }
+      ]
+    },
+    {
+      "id": "sc-temporais",
+      "nome": "Temporais em Santa Catarina",
+      "tipo": "enchente",
+      "ufs": [
+        "SC"
+      ],
+      "fase": "resposta",
+      "situacao": "Os temporais desde 1º de novembro atingiram 5.358 casas em 106 municípios catarinenses e deixaram duas pessoas mortas, segundo a Defesa Civil estadual em 05/11. São 56 desabrigados e 252 desalojados. 23 municípios estão em situação de emergência, entre eles Chapecó, Fraiburgo e Catanduvas.",
+      "data": "2026-11-05",
+      "quem": [
+        {
+          "nome": "Defesa Civil de Santa Catarina",
+          "faz": "Faz o balanço dos danos com 15 coordenadorias regionais e atende os pedidos de assistência humanitária de 9 municípios.",
+          "url": "https://www.defesacivil.sc.gov.br/",
+          "tipo": "governo"
+        }
+      ],
+      "como_ajudar": [
+        "Cadastre o CEP para receber alertas da Defesa Civil por SMS: mande o CEP para 40199.",
+        "Doe só por canal oficial do estado, da prefeitura ou de entidade conhecida, e desconfie de vaquinhas sem origem clara."
+      ],
+      "fontes": [
+        {
+          "titulo": "Chuva deixa 2 mortos e atinge mais de 5,3 mil casas em SC (05/11/2026)",
+          "url": "https://sbtnews.sbt.com.br/noticia/brasil/chuva-deixa-2-mortos-e-atinge-mais-de-5-3-mil-casas-em-sc",
+          "tipo": "imprensa"
         }
       ]
     },
