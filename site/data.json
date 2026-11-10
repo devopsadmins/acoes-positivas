@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-11-09",
+  "atualizado": "2026-11-10",
   "destaque": {
     "titulo": "Amazônia tem o menor desmatamento desde 1988",
     "texto": "A estimativa do PRODES 2026 aponta 3.335 km² desmatados na Amazônia entre agosto de 2025 e julho de 2026. É uma queda de 41,8% sobre o ciclo anterior e o menor valor da série do INPE. O Cerrado também teve o menor valor desde 2001.",
@@ -108,6 +108,36 @@
         {
           "titulo": "Chuva deixa 2 mortos e atinge mais de 5,3 mil casas em SC (05/11/2026)",
           "url": "https://sbtnews.sbt.com.br/noticia/brasil/chuva-deixa-2-mortos-e-atinge-mais-de-5-3-mil-casas-em-sc",
+          "tipo": "imprensa"
+        }
+      ]
+    },
+    {
+      "id": "pr-temporais",
+      "nome": "Temporais no Paraná",
+      "tipo": "enchente",
+      "ufs": [
+        "PR"
+      ],
+      "fase": "resposta",
+      "situacao": "Nos quatro primeiros dias de novembro, tempestades, granizo e vendavais atingiram 38 municípios paranaenses, segundo a Defesa Civil. Maringá foi atingida por um tornado F2 e decretou emergência, assim como Marquinho, onde um vendaval danificou 270 casas. Em Guaíra, o granizo afetou 2 mil pessoas. Entre outubro e novembro, cerca de 194 mil pessoas foram afetadas no estado.",
+      "data": "2026-11-04",
+      "quem": [
+        {
+          "nome": "Defesa Civil do Paraná",
+          "faz": "Faz o levantamento dos danos com os núcleos regionais e orienta os municípios atingidos pelos temporais.",
+          "url": "https://www.defesacivil.pr.gov.br/",
+          "tipo": "governo"
+        }
+      ],
+      "como_ajudar": [
+        "Cadastre o CEP para receber alertas da Defesa Civil por SMS: mande o CEP para 40199.",
+        "Doe só por canal oficial do estado, da prefeitura ou de entidade conhecida, e desconfie de vaquinhas sem origem clara."
+      ],
+      "fontes": [
+        {
+          "titulo": "194 mil pessoas foram afetadas por desastres entre outubro e novembro no Paraná (04/11/2026)",
+          "url": "https://www.brasildefato.com.br/2026/11/04/194-mil-pessoas-foram-afetadas-por-desastres-ambientais-entre-outubro-e-novembro-no-parana/",
           "tipo": "imprensa"
         }
       ]
@@ -380,14 +410,14 @@
         "004",
         "586"
       ],
-      "status": "em_curso",
+      "status": "atrasado",
       "meta": "Zero casos de pólio selvagem no mundo",
       "progresso": 99,
-      "progresso_rotulo": "26 casos em 2026 até setembro (52 em 2025)",
-      "resumo": "O vírus selvagem só circula em dois países. Até setembro de 2026 foram 23 casos no Afeganistão e 3 no Paquistão, contra 52 no ano inteiro de 2025. Em 1988 eram cerca de 350 mil casos por ano.",
+      "progresso_rotulo": "59 casos em 2026 até 5 de novembro (52 em 2025)",
+      "resumo": "O vírus selvagem só circula em dois países. Em 2026, o GPEI conta 50 casos no Afeganistão, e o Paquistão confirmou o nono caso em 5 de novembro. São 59 casos, mais que os 52 do ano inteiro de 2025, e a meta de interromper a transmissão em 2026 ficou distante. Em 1988 eram cerca de 350 mil casos por ano.",
       "quem": "GPEI (OMS, UNICEF, Rotary, Fundação Gates) e vacinadores locais",
-      "url": "https://kabulnow.com/2026/09/afghanistan-records-four-new-polio-cases-total-rises-to-23-who-says/",
-      "fonte": "OMS, via KabulNow"
+      "url": "https://polioeradication.org/about-polio/polio-this-week/",
+      "fonte": "GPEI e NEOC do Paquistão, via Arab News"
     },
     {
       "id": "malaria",
