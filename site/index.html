@@ -253,6 +253,8 @@ footer a { color: var(--muted); }
   </section>
 </main>
 
+<div class="wrap"><section id="familia" data-atual="regeneracao"></section></div>
+
 <footer class="wrap">
   <p>Fontes gerais: <span id="fontes-gerais"></span></p>
   <p>Um irmão otimista do <a href="https://prontidao-civil.pages.dev/">Monitor de Prontidão Civil</a>.</p>
@@ -384,5 +386,6 @@ Promise.all([d3.json("data.json"), d3.json("geo/brasil-uf.json"), d3.json("geo/c
   console.error(err);
 });
 </script>
+<script src="familia.js" defer></script>
 </body>
 </html>
