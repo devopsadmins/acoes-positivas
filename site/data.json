@@ -315,6 +315,53 @@
       ]
     },
     {
+      "id": "se-estiagem",
+      "nome": "Estiagem na Grande Aracaju",
+      "tipo": "seca",
+      "ufs": [
+        "SE"
+      ],
+      "fase": "resposta",
+      "situacao": "O governo de Sergipe decretou em 18/11 situação de emergência por estiagem em Aracaju, Barra dos Coqueiros, Nossa Senhora do Socorro e São Cristóvão, por 180 dias. O motivo é a queda da Barragem do Poxim, que abastece cerca de 30% de Aracaju. Segundo o boletim do governo de 18/11, ela está com 19,9% do volume útil, em alerta. A Defesa Civil estadual também dá apoio técnico a 17 municípios do interior, sobretudo no alto e médio sertão.",
+      "data": "2026-11-18",
+      "quem": [
+        {
+          "nome": "Defesa Civil de Sergipe",
+          "faz": "Coordena o monitoramento da barragem e do abastecimento e prepara um plano para possíveis restrições de água, com prioridade para hospitais e serviços essenciais.",
+          "url": "https://defesacivil.se.gov.br/",
+          "tipo": "governo"
+        },
+        {
+          "nome": "Deso (Companhia de Saneamento de Sergipe)",
+          "faz": "Opera o abastecimento da Grande Aracaju e divulga os avisos sobre o fornecimento de água.",
+          "url": "https://www.deso-se.com.br/",
+          "tipo": "governo"
+        },
+        {
+          "nome": "Operação Carro-Pipa",
+          "faz": "Pode levar água em caráter emergencial, pelo estado ou pelo governo federal, às áreas sem abastecimento.",
+          "url": "https://www.gov.br/mdr/pt-br/assuntos/protecao-e-defesa-civil",
+          "tipo": "governo"
+        }
+      ],
+      "como_ajudar": [
+        "Quem mora na Grande Aracaju: economize água e acompanhe os avisos da Deso e da Defesa Civil.",
+        "Guarde água só em recipiente limpo e tampado, para evitar a dengue."
+      ],
+      "fontes": [
+        {
+          "titulo": "Defesa Civil estadual subsidiará ações de prevenção e resposta à estiagem na Grande Aracaju (18/11/2026)",
+          "url": "https://www.se.gov.br/agencia/noticias/governo/defesa_civil_estadual_subsidiara_acoes_de_prevencao_e_resposta_a_estiagem_na_grande_aracaju",
+          "tipo": "oficial"
+        },
+        {
+          "titulo": "Boletim do Governo de Sergipe sobre os efeitos do El Niño (18/11/2026)",
+          "url": "https://www.se.gov.br/agencia/noticias/meio-ambiente/confira_o_boletim_informativo_do_governo_de_sergipe_com_indicadores_de_monitoramento_e_enfrentamento_aos_efeitos_do_el_ni_o_desta_quarta_feira_18",
+          "tipo": "oficial"
+        }
+      ]
+    },
+    {
       "id": "ne-seca",
       "nome": "Seca no Semiárido",
       "tipo": "seca",
