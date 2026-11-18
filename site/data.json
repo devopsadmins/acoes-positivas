@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-11-17",
+  "atualizado": "2026-11-18",
   "destaque": {
     "titulo": "Amazônia tem o menor desmatamento desde 1988",
     "texto": "A estimativa do PRODES 2026 aponta 3.335 km² desmatados na Amazônia entre agosto de 2025 e julho de 2026. É uma queda de 41,8% sobre o ciclo anterior e o menor valor da série do INPE. O Cerrado também teve o menor valor desde 2001.",
@@ -262,6 +262,54 @@
         {
           "titulo": "Estiagem já atinge mais de 101 mil famílias no Amazonas (21/10/2026)",
           "url": "https://www.correiodamanha.com.br/nacional/norte/2026/10/328547-estiagem-ja-atinge-mais-de-101-mil-familias-no-amazonas.html",
+          "tipo": "imprensa"
+        }
+      ]
+    },
+    {
+      "id": "pa-incendios",
+      "nome": "Incêndios florestais e estiagem no Pará",
+      "tipo": "seca",
+      "ufs": [
+        "PA"
+      ],
+      "fase": "resposta",
+      "situacao": "A Defesa Civil Nacional reconheceu em 15/11 a situação de emergência em 61 municípios do Pará atingidos por incêndios florestais. Outros 50 municípios já estavam em emergência por queimadas e estiagem. De 1º de janeiro a 14 de novembro, o Inpe registrou 30.015 focos de queimada no estado, 142% a mais que no mesmo período de 2025. O governo estadual declarou emergência ambiental e climática em todo o Pará por 120 dias.",
+      "data": "2026-11-16",
+      "quem": [
+        {
+          "nome": "Defesa Civil Nacional (MIDR)",
+          "faz": "Reconheceu a emergência nos 61 municípios, o que permite pedir recursos federais pelo S2iD. Em 2026 já aprovou 34 planos de assistência humanitária no estado, somando R$ 24 milhões.",
+          "url": "https://www.gov.br/mdr/pt-br/assuntos/protecao-e-defesa-civil",
+          "tipo": "governo"
+        },
+        {
+          "nome": "Governo do Pará e Corpo de Bombeiros Militar",
+          "faz": "Monitoram focos de calor e qualidade do ar, identificam comunidades em risco e combatem os incêndios, com duas aeronaves de grande porte autorizadas pelo governo federal.",
+          "url": "https://agenciapara.com.br/",
+          "tipo": "governo"
+        },
+        {
+          "nome": "Ministério do Meio Ambiente e Mudança do Clima",
+          "faz": "Mobilizou mais de 600 profissionais, 85 veículos e seis helicópteros contra o fogo. Um KC-390 do Ministério da Defesa lançou água perto de Santarém.",
+          "url": "https://www.gov.br/mma/pt-br",
+          "tipo": "governo"
+        }
+      ],
+      "como_ajudar": [
+        "Não use fogo para limpar terreno ou queimar lixo durante a estiagem.",
+        "Ao ver um foco de incêndio, ligue 193 para o Corpo de Bombeiros.",
+        "Acompanhe os avisos da Defesa Civil e os canais oficiais do governo do Pará."
+      ],
+      "fontes": [
+        {
+          "titulo": "Governo Federal reconhece situação de emergência em 61 cidades no Pará afetadas por incêndios florestais (16/11/2026)",
+          "url": "https://agenciagov.ebc.com.br/noticias/202611/governo-federal-reconhece-situacao-de-emergencia-em-61-cidades-no-para-afetadas-por-incendios-florestais",
+          "tipo": "oficial"
+        },
+        {
+          "titulo": "Focos de incêndio no Pará aumentam 142% em 2026, aponta Inpe (16/11/2026)",
+          "url": "https://www.oliberal.com/para/focos-de-incendio-no-para-aumentam-142-em-2026-aponta-inpe-1.1194643",
           "tipo": "imprensa"
         }
       ]
