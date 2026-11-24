@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-11-22",
+  "atualizado": "2026-11-24",
   "destaque": {
     "titulo": "Amazônia tem o menor desmatamento desde 1988",
     "texto": "A estimativa do PRODES 2026 aponta 3.335 km² desmatados na Amazônia entre agosto de 2025 e julho de 2026. É uma queda de 41,8% sobre o ciclo anterior e o menor valor da série do INPE. O Cerrado também teve o menor valor desde 2001.",
@@ -21,8 +21,8 @@
         "RS"
       ],
       "fase": "resposta",
-      "situacao": "Na madrugada de 20/11, uma supercélula com ventos de 114 km/h devastou Tupanciretã, na região Central. Segundo a Defesa Civil estadual, em 22/11, o município tem 5 mortos, 265 feridos, 20.090 afetados, 19.780 desalojados e 7.796 casas destelhadas. Desde 16/11, os temporais atingiram 42 municípios e 25.123 pessoas no estado. A Defesa Civil Nacional reconheceu calamidade pública em Tupanciretã em 21/11. No começo de novembro, outra sequência de tempestades e tornados já tinha afetado 70.491 pessoas em 136 municípios. O Painel El Niño prevê chuva acima da média no Sul até janeiro.",
-      "data": "2026-11-22",
+      "situacao": "Na madrugada de 20/11, uma supercélula com ventos de 114 km/h devastou Tupanciretã, na região Central. Segundo a Defesa Civil estadual, em 22/11, o município tem 5 mortos, 265 feridos, 20.090 afetados, 19.780 desalojados e 7.796 casas destelhadas. Desde 16/11, os temporais atingiram 42 municípios e 25.123 pessoas no estado. A Defesa Civil Nacional reconheceu calamidade pública em Tupanciretã em 21/11. No começo de novembro, outra sequência de tempestades e tornados já tinha afetado 70.491 pessoas em 136 municípios. O Painel El Niño prevê chuva acima da média no Sul até janeiro. Em 23/11, o MIDR avisou que uma nova tempestade deve atingir o Sul em 24/11, com aviso vermelho do Inmet para chuva acima de 100 mm por dia, ventos acima de 100 km/h e granizo.",
+      "data": "2026-11-23",
       "quem": [
         {
           "nome": "Defesa Civil do RS",
@@ -38,7 +38,7 @@
         },
         {
           "nome": "Defesa Civil Nacional",
-          "faz": "Reconheceu calamidade pública em Tupanciretã em 21/11, o que acelera recursos para ajuda humanitária, telhas, limpeza e reconstrução. A Força Nacional do SUS enviou 13 profissionais ao município.",
+          "faz": "Reconheceu calamidade pública em Tupanciretã em 21/11. Até 23/11, aprovou R$ 8 milhões para o município: ajuda humanitária, limpeza urbana e telhas para 2 mil famílias. A Força Nacional do SUS enviou 13 profissionais.",
           "url": "https://www.gov.br/mdr/pt-br/assuntos/protecao-e-defesa-civil",
           "tipo": "governo"
         },
@@ -46,6 +46,12 @@
           "nome": "Conab",
           "faz": "Enviou 6,45 toneladas de alimentos a Tupanciretã, entregues a uma cozinha solidária que prepara refeições para os atingidos.",
           "url": "https://www.gov.br/conab/pt-br",
+          "tipo": "governo"
+        },
+        {
+          "nome": "Ministério Público do RS (FRBL)",
+          "faz": "Abriu uma chave Pix institucional do Fundo para Reconstituição de Bens Lesados para receber doações a Tupanciretã e mantém força-tarefa e atendimento à população no município.",
+          "url": "https://www.mprs.mp.br/noticias/67938/",
           "tipo": "governo"
         },
         {
@@ -63,10 +69,30 @@
       ],
       "como_ajudar": [
         "Cadastre o CEP para receber alertas da Defesa Civil por SMS: mande o CEP para 40199.",
-        "Doe só por canal oficial do estado, da prefeitura ou de entidade conhecida. O Ministério Público do RS alerta para golpes com Pix e vaquinhas falsas em nome de Tupanciretã.",
+        "Doe só por canal oficial do estado, da prefeitura ou de entidade conhecida. O Ministério Público do RS abriu uma chave Pix institucional para Tupanciretã, divulgada no site do MPRS, e alerta para golpes com Pix e vaquinhas falsas em nome da cidade.",
         "Quem mora no Vale do Taquari ou perto dos rios dos Sinos, Jacuí e Uruguai: tenha rota de saída e documentos em saco plástico."
       ],
       "fontes": [
+        {
+          "titulo": "Sobe para R$ 8 milhões verba federal para socorro a Tupanciretã (23/11/2026)",
+          "url": "https://www.gov.br/mdr/pt-br/noticias/sobe-para-r-8-milhoes-verba-federal-para-socorro-a-tupancireta-rs",
+          "tipo": "oficial"
+        },
+        {
+          "titulo": "Nova tempestade coloca Região Sul em alerta (23/11/2026)",
+          "url": "https://www.gov.br/mdr/pt-br/noticias/nova-tempestade-coloca-regiao-sul-em-alerta",
+          "tipo": "oficial"
+        },
+        {
+          "titulo": "Aprovados R$ 4,7 milhões para ajuda humanitária em Tupanciretã (22/11/2026)",
+          "url": "https://www.gov.br/mdr/pt-br/noticias/aprovados-r-4-7-milhoes-para-ajuda-humanitaria-em-tupancireta-rs",
+          "tipo": "oficial"
+        },
+        {
+          "titulo": "MPRS disponibiliza chave Pix do FRBL para doações em auxílio a Tupanciretã (21/11/2026)",
+          "url": "https://www.mprs.mp.br/noticias/67938/",
+          "tipo": "oficial"
+        },
         {
           "titulo": "Sobe para cinco o número de mortos no temporal em Tupanciretã (22/11/2026)",
           "url": "https://sul21.com.br/noticias/geral/2026/11/sobe-para-cinco-o-numero-de-mortos-no-temporal-em-tupancireta/",
@@ -112,8 +138,8 @@
         "SC"
       ],
       "fase": "resposta",
-      "situacao": "Os temporais desde 1º de novembro afetaram 126 municípios catarinenses e atingiram 6.423 moradias, segundo balanço da Defesa Civil estadual de 07/11. Duas pessoas morreram, em Xanxerê e Rio Negrinho. São 100 desabrigados e 557 desalojados. 62 municípios estão em situação de emergência. Houve tornados em Chapecó e Xanxerê, e o Oeste segue sob alerta de novos temporais.",
-      "data": "2026-11-07",
+      "situacao": "Os temporais desde 1º de novembro afetaram 126 municípios catarinenses e atingiram 6.423 moradias, segundo balanço da Defesa Civil estadual de 07/11. Duas pessoas morreram, em Xanxerê e Rio Negrinho. São 100 desabrigados e 557 desalojados. 62 municípios estão em situação de emergência. Houve tornados em Chapecó e Xanxerê, e o Oeste segue sob alerta de novos temporais. Na nova onda de chuva, até 22/11, 34 cidades foram afetadas, com 54 desalojados e dois desabrigados, segundo o MIDR.",
+      "data": "2026-11-22",
       "quem": [
         {
           "nome": "Defesa Civil de Santa Catarina",
@@ -127,6 +153,11 @@
         "Doe só por canal oficial do estado, da prefeitura ou de entidade conhecida, e desconfie de vaquinhas sem origem clara."
       ],
       "fontes": [
+        {
+          "titulo": "Técnicos de plantão agilizam socorro em municípios afetados pela chuva (22/11/2026)",
+          "url": "https://www.gov.br/mdr/pt-br/noticias/tecnicos-de-plantao-agilizam-socorro-em-municipios-afetados-pela-chuva",
+          "tipo": "oficial"
+        },
         {
           "titulo": "Atingida por tornados, região Oeste de SC deve ter novos temporais (07/11/2026)",
           "url": "https://www.oliberal.com/brasil/atingida-por-tornados-regi-o-oeste-de-santa-catarina-deve-ter-novos-temporais-1.1191647",
@@ -147,8 +178,8 @@
         "PR"
       ],
       "fase": "resposta",
-      "situacao": "Nos quatro primeiros dias de novembro, tempestades, granizo e vendavais atingiram 38 municípios paranaenses, segundo a Defesa Civil. Maringá foi atingida por um tornado F2 e decretou emergência, assim como Marquinho, onde um vendaval danificou 270 casas. Em Guaíra, o granizo afetou 2 mil pessoas. Entre outubro e novembro, cerca de 194 mil pessoas foram afetadas no estado.",
-      "data": "2026-11-04",
+      "situacao": "Nos quatro primeiros dias de novembro, tempestades, granizo e vendavais atingiram 38 municípios paranaenses, segundo a Defesa Civil. Maringá foi atingida por um tornado F2 e decretou emergência, assim como Marquinho, onde um vendaval danificou 270 casas. Em Guaíra, o granizo afetou 2 mil pessoas. Entre outubro e novembro, cerca de 194 mil pessoas foram afetadas no estado. Em 20/11, um novo vendaval atingiu sete municípios, segundo a Defesa Civil do Paraná citada pelo MIDR em 22/11. Foram 945 pessoas afetadas e 237 casas danificadas. Foz do Iguaçu teve o maior número de atingidos, 400 pessoas.",
+      "data": "2026-11-22",
       "quem": [
         {
           "nome": "Defesa Civil do Paraná",
@@ -162,6 +193,11 @@
         "Doe só por canal oficial do estado, da prefeitura ou de entidade conhecida, e desconfie de vaquinhas sem origem clara."
       ],
       "fontes": [
+        {
+          "titulo": "Técnicos de plantão agilizam socorro em municípios afetados pela chuva (22/11/2026)",
+          "url": "https://www.gov.br/mdr/pt-br/noticias/tecnicos-de-plantao-agilizam-socorro-em-municipios-afetados-pela-chuva",
+          "tipo": "oficial"
+        },
         {
           "titulo": "194 mil pessoas foram afetadas por desastres entre outubro e novembro no Paraná (04/11/2026)",
           "url": "https://www.brasildefato.com.br/2026/11/04/194-mil-pessoas-foram-afetadas-por-desastres-ambientais-entre-outubro-e-novembro-no-parana/",
@@ -290,8 +326,8 @@
         "PA"
       ],
       "fase": "resposta",
-      "situacao": "A Defesa Civil Nacional reconheceu em 15/11 a situação de emergência em 61 municípios do Pará atingidos por incêndios florestais. Outros 50 municípios já estavam em emergência por queimadas e estiagem. De 1º de janeiro a 14 de novembro, o Inpe registrou 30.015 focos de queimada no estado, 142% a mais que no mesmo período de 2025. O governo estadual declarou emergência ambiental e climática em todo o Pará por 120 dias.",
-      "data": "2026-11-16",
+      "situacao": "A Defesa Civil Nacional reconheceu em 15/11 a situação de emergência em 61 municípios do Pará atingidos por incêndios florestais. Em 18/11, mais cinco entraram na lista: Curuá e Terra Alta por estiagem, e Curralinho, Nova Timboteua e Santarém por incêndios. São 66 municípios com reconhecimento federal. Outros 50 municípios já estavam em emergência por queimadas e estiagem. De 1º de janeiro a 14 de novembro, o Inpe registrou 30.015 focos de queimada no estado, 142% a mais que no mesmo período de 2025. O governo estadual declarou emergência ambiental e climática em todo o Pará por 120 dias.",
+      "data": "2026-11-18",
       "quem": [
         {
           "nome": "Defesa Civil Nacional (MIDR)",
@@ -318,6 +354,11 @@
         "Acompanhe os avisos da Defesa Civil e os canais oficiais do governo do Pará."
       ],
       "fontes": [
+        {
+          "titulo": "Reconhecida emergência em cinco cidades paraenses afetadas por desastres (18/11/2026)",
+          "url": "https://www.gov.br/mdr/pt-br/noticias/reconhecida-emergencia-em-cinco-cidades-paraenses-afetadas-por-desastres",
+          "tipo": "oficial"
+        },
         {
           "titulo": "Governo Federal reconhece situação de emergência em 61 cidades no Pará afetadas por incêndios florestais (16/11/2026)",
           "url": "https://agenciagov.ebc.com.br/noticias/202611/governo-federal-reconhece-situacao-de-emergencia-em-61-cidades-no-para-afetadas-por-incendios-florestais",
@@ -393,8 +434,8 @@
         "MA"
       ],
       "fase": "prevencao",
-      "situacao": "O governo do Ceará declarou situação de emergência em 65 municípios por causa do El Niño, em decreto publicado em 13/11 e válido por 180 dias. A Funceme classifica o El Niño como muito forte e prevê cenário desfavorável para a quadra chuvosa de 2027. Em setembro, 47 açudes analisados no Nordeste tinham menos de 10% de água. A Embrapa lembra que a região entra neste episódio com mais água guardada do que em 2015/2016.",
-      "data": "2026-11-13",
+      "situacao": "O governo do Ceará declarou situação de emergência em 65 municípios por causa do El Niño, em decreto publicado em 13/11 e válido por 180 dias. A Funceme classifica o El Niño como muito forte e prevê cenário desfavorável para a quadra chuvosa de 2027. Em setembro, 47 açudes analisados no Nordeste tinham menos de 10% de água. A Embrapa lembra que a região entra neste episódio com mais água guardada do que em 2015/2016. Em 23/11, a Defesa Civil Nacional reconheceu emergência em mais seis cidades da Bahia: cinco por estiagem, entre elas Vitória da Conquista e Ibotirama, e Itaberaba por seca.",
+      "data": "2026-11-23",
       "quem": [
         {
           "nome": "Defesa Civil do Ceará",
@@ -432,6 +473,11 @@
         "Quem produz no Semiárido: procure a assistência técnica da Embrapa ou da extensão rural do estado antes do plantio."
       ],
       "fontes": [
+        {
+          "titulo": "Reconhecida emergência em seis cidades baianas afetadas por desastres (23/11/2026)",
+          "url": "https://www.gov.br/mdr/pt-br/noticias/reconhecida-emergencia-em-seis-cidades-baianas-afetadas-por-desastres-1",
+          "tipo": "oficial"
+        },
         {
           "titulo": "Ceará decreta situação de emergência para 65 cidades por efeitos do El Niño (13/11/2026)",
           "url": "https://diariodonordeste.verdesmares.com.br/ceara/ceara-decreta-situacao-de-emergencia-para-65-cidades-por-efeitos-do-el-nino-1.3805744",
