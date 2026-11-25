@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-11-24",
+  "atualizado": "2026-11-25",
   "destaque": {
     "titulo": "Amazônia tem o menor desmatamento desde 1988",
     "texto": "A estimativa do PRODES 2026 aponta 3.335 km² desmatados na Amazônia entre agosto de 2025 e julho de 2026. É uma queda de 41,8% sobre o ciclo anterior e o menor valor da série do INPE. O Cerrado também teve o menor valor desde 2001.",
@@ -178,13 +178,19 @@
         "PR"
       ],
       "fase": "resposta",
-      "situacao": "Nos quatro primeiros dias de novembro, tempestades, granizo e vendavais atingiram 38 municípios paranaenses, segundo a Defesa Civil. Maringá foi atingida por um tornado F2 e decretou emergência, assim como Marquinho, onde um vendaval danificou 270 casas. Em Guaíra, o granizo afetou 2 mil pessoas. Entre outubro e novembro, cerca de 194 mil pessoas foram afetadas no estado. Em 20/11, um novo vendaval atingiu sete municípios, segundo a Defesa Civil do Paraná citada pelo MIDR em 22/11. Foram 945 pessoas afetadas e 237 casas danificadas. Foz do Iguaçu teve o maior número de atingidos, 400 pessoas. Em 24/11, a Defesa Civil Nacional reconheceu emergência em mais seis cidades paranaenses: Abatiá, Goioxim e Rebouças por chuvas fortes, Cândido de Abreu por enxurrada, São Sebastião da Amoreira por vendaval e Guaíra por granizo.",
-      "data": "2026-11-24",
+      "situacao": "Nos quatro primeiros dias de novembro, tempestades, granizo e vendavais atingiram 38 municípios paranaenses, segundo a Defesa Civil. Maringá foi atingida por um tornado F2 e decretou emergência, assim como Marquinho, onde um vendaval danificou 270 casas. Em Guaíra, o granizo afetou 2 mil pessoas. Entre outubro e novembro, cerca de 194 mil pessoas foram afetadas no estado. Em 20/11, um novo vendaval atingiu sete municípios, segundo a Defesa Civil do Paraná citada pelo MIDR em 22/11. Foram 945 pessoas afetadas e 237 casas danificadas. Foz do Iguaçu teve o maior número de atingidos, 400 pessoas. Em 24/11, a Defesa Civil Nacional reconheceu emergência em mais seis cidades paranaenses: Abatiá, Goioxim e Rebouças por chuvas fortes, Cândido de Abreu por enxurrada, São Sebastião da Amoreira por vendaval e Guaíra por granizo. Entre 23 e 25/11, a passagem de uma frente fria trouxe enxurradas e alagamentos. Segundo a Defesa Civil estadual, citada pelo g1 em 25/11, seis pessoas morreram e 40 cidades registraram desastres. As mortes foram em Campo Largo, Nova Esperança do Sudoeste, Verê e Mato Rico. A estimativa é de 10 mil pessoas afetadas, e o balanço oficial ainda está em andamento. Em Renascença, 20 pessoas foram para abrigos públicos. Em 25/11, o governo do estado homologou a situação de emergência em Ampére, Verê e Nova Esperança do Sudoeste, atingidas pelo temporal de 24/11. Segundo o governo, em Ampére são 4.700 pessoas afetadas, 1.500 fora de casa e 200 desabrigadas. Em Nova Esperança do Sudoeste, 400 pessoas estão desabrigadas e 400 desalojadas.",
+      "data": "2026-11-25",
       "quem": [
         {
           "nome": "Defesa Civil do Paraná",
           "faz": "Faz o levantamento dos danos com os núcleos regionais e orienta os municípios atingidos pelos temporais.",
           "url": "https://www.defesacivil.pr.gov.br/",
+          "tipo": "governo"
+        },
+        {
+          "nome": "Corpo de Bombeiros Militar do Paraná",
+          "faz": "Resgata pessoas ilhadas com embarcações e faz as buscas por desaparecidos nas enxurradas.",
+          "url": "https://www.bombeiros.pr.gov.br/",
           "tipo": "governo"
         }
       ],
@@ -193,6 +199,21 @@
         "Doe só por canal oficial do estado, da prefeitura ou de entidade conhecida, e desconfie de vaquinhas sem origem clara."
       ],
       "fontes": [
+        {
+          "titulo": "Temporais: Estado homologa decretos de Situação de Emergência de três municípios (25/11/2026)",
+          "url": "https://www.aen.pr.gov.br/Noticia/Temporais-Estado-homologa-decretos-de-Situacao-de-Emergencia-de-tres-municipios",
+          "tipo": "governo"
+        },
+        {
+          "titulo": "Chuvas fortes no Paraná deixam seis mortes e causam desastres em 40 cidades, diz Defesa Civil (25/11/2026)",
+          "url": "https://g1.globo.com/pr/oeste-sudoeste/noticia/2026/11/25/dados-chuvas-parana.ghtml",
+          "tipo": "imprensa"
+        },
+        {
+          "titulo": "Quatro mortes são confirmadas após tempestades no Paraná (24/11/2026)",
+          "url": "https://www.bandab.com.br/noticias-parana/quatro-mortes-sao-confirmadas-apos-tempestades-parana/",
+          "tipo": "imprensa"
+        },
         {
           "titulo": "Reconhecida emergência em 30 cidades afetadas por desastres (24/11/2026)",
           "url": "https://www.gov.br/mdr/pt-br/noticias/reconhecida-emergencia-em-30-cidades-afetadas-por-desastres",
@@ -258,6 +279,47 @@
         {
           "titulo": "Temporal leva Ponta Porã a decretar emergência por 180 dias (24/11/2026)",
           "url": "https://www.campograndenews.com.br/cidades/interior/temporal-leva-ponta-pora-a-decretar-emergencia-por-180-dias",
+          "tipo": "imprensa"
+        }
+      ]
+    },
+    {
+      "id": "es-chuvas",
+      "nome": "Chuvas no Espírito Santo",
+      "tipo": "enchente",
+      "ufs": [
+        "ES"
+      ],
+      "fase": "resposta",
+      "situacao": "Em 24/11, o rio Muqui do Sul subiu mais de 4 metros e inundou bairros de Mimoso do Sul, no Sul do estado. Cerca de 500 pessoas tiveram que sair de casa, segundo a prefeitura, e moradores isolados foram resgatados. Três pacientes em tratamento foram levados de helicóptero porque as estradas ficaram bloqueadas. Sete municípios decretaram situação de emergência: Apiacá, Mimoso do Sul, Jaguaré, Guaçuí, Cachoeiro de Itapemirim, Nova Venécia e Santa Leopoldina. A Defesa Civil prevê mais chuva forte, com 70 a 100 mm na quinta-feira, 26/11.",
+      "data": "2026-11-24",
+      "quem": [
+        {
+          "nome": "Defesa Civil do Espírito Santo",
+          "faz": "Monitora rios e áreas de risco e apoia as prefeituras atingidas, com o Corpo de Bombeiros e o DER-ES.",
+          "url": "https://defesacivil.es.gov.br/",
+          "tipo": "governo"
+        }
+      ],
+      "como_ajudar": [
+        "Em emergência, ligue 199 (Defesa Civil) ou 193 (Bombeiros).",
+        "Cadastre o CEP para receber alertas da Defesa Civil por SMS: mande o CEP para 40199.",
+        "Doe só por canal oficial do estado, da prefeitura ou de entidade conhecida, e desconfie de vaquinhas sem origem clara."
+      ],
+      "fontes": [
+        {
+          "titulo": "Chuva provoca inundação, tira 500 pessoas de casa e faz 7 cidades decretarem situação de emergência no ES (24/11/2026)",
+          "url": "https://g1.globo.com/es/espirito-santo/sul-es/noticia/2026/11/24/chuva-no-es-rio-transborda-deixa-desalojados-e-faz-cidade-decretar-situacao-de-emergencia.ghtml",
+          "tipo": "imprensa"
+        },
+        {
+          "titulo": "Enchente deixa 500 desalojados e provoca estragos em Mimoso do Sul (24/11/2026)",
+          "url": "https://tribunaonline.com.br/cotidiano/regional/enchente-mimoso-do-sul-desalojados/",
+          "tipo": "imprensa"
+        },
+        {
+          "titulo": "Chuva no ES: sete municípios já decretaram situação de emergência (24/11/2026)",
+          "url": "https://www.agazeta.com.br/clima/chuva-no-es-sete-municipios-ja-decretaram-situacao-de-emergencia-1126",
           "tipo": "imprensa"
         }
       ]
@@ -496,8 +558,8 @@
         "MA"
       ],
       "fase": "prevencao",
-      "situacao": "O governo do Ceará declarou situação de emergência em 65 municípios por causa do El Niño, em decreto publicado em 13/11 e válido por 180 dias. A Funceme classifica o El Niño como muito forte e prevê cenário desfavorável para a quadra chuvosa de 2027. Em setembro, 47 açudes analisados no Nordeste tinham menos de 10% de água. A Embrapa lembra que a região entra neste episódio com mais água guardada do que em 2015/2016. Em 23/11, a Defesa Civil Nacional reconheceu emergência em mais seis cidades da Bahia: cinco por estiagem, entre elas Vitória da Conquista e Ibotirama, e Itaberaba por seca. Em 24/11, mais dez cidades do Nordeste entraram na lista. Por estiagem: Delmiro Gouveia e Pariconha (AL), Irará, Nova Fátima e Nova Redenção (BA), Crateús (CE), Ibiara e Tacima (PB). Por seca: Ibicuitinga (CE) e Porto da Folha (SE).",
-      "data": "2026-11-24",
+      "situacao": "O governo do Ceará declarou situação de emergência em 65 municípios por causa do El Niño, em decreto publicado em 13/11 e válido por 180 dias. A Funceme classifica o El Niño como muito forte e prevê cenário desfavorável para a quadra chuvosa de 2027. Em setembro, 47 açudes analisados no Nordeste tinham menos de 10% de água. A Embrapa lembra que a região entra neste episódio com mais água guardada do que em 2015/2016. Em 23/11, a Defesa Civil Nacional reconheceu emergência em mais seis cidades da Bahia: cinco por estiagem, entre elas Vitória da Conquista e Ibotirama, e Itaberaba por seca. Em 24/11, mais dez cidades do Nordeste entraram na lista. Por estiagem: Delmiro Gouveia e Pariconha (AL), Irará, Nova Fátima e Nova Redenção (BA), Crateús (CE), Ibiara e Tacima (PB). Por seca: Ibicuitinga (CE) e Porto da Folha (SE). Em 25/11, o governo de Pernambuco publicou o Decreto nº 61.763, que põe 33 municípios em situação de emergência por estiagem por 180 dias, entre eles Caruaru, Gravatá, Bezerros, Limoeiro, Surubim e Salgueiro. O decreto cita a queda dos reservatórios e o calor do El Niño. Com os novos decretos, Pernambuco soma 108 municípios em emergência por estiagem, 58% das 184 cidades do estado. Em 24/11, a Apac registrou 30 reservatórios do Agreste e do Sertão em colapso, abaixo de 10% da capacidade, e seis com volume zerado.",
+      "data": "2026-11-25",
       "quem": [
         {
           "nome": "Defesa Civil do Ceará",
@@ -535,6 +597,16 @@
         "Quem produz no Semiárido: procure a assistência técnica da Embrapa ou da extensão rural do estado antes do plantio."
       ],
       "fontes": [
+        {
+          "titulo": "Pernambuco decreta situação de emergência em mais 33 cidades por conta da seca e número sobe para 108 (25/11/2026)",
+          "url": "https://g1.globo.com/pe/pernambuco/noticia/2026/11/25/pernambuco-decreta-situacao-de-emergencia-em-33-cidades-por-conta-da-estiagem-e-do-el-nino-veja-lista.ghtml",
+          "tipo": "imprensa"
+        },
+        {
+          "titulo": "Pernambuco decreta situação de emergência em 33 municípios devido à estiagem (25/11/2026)",
+          "url": "https://www.diariodepernambuco.com.br/pernambuco/2026/11/11729890-pernambuco-decreta-situacao-de-emergencia-em-33-municipios-devido-a-estiagem.html",
+          "tipo": "imprensa"
+        },
         {
           "titulo": "Reconhecida emergência em 30 cidades afetadas por desastres (24/11/2026)",
           "url": "https://www.gov.br/mdr/pt-br/noticias/reconhecida-emergencia-em-30-cidades-afetadas-por-desastres",
