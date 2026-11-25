@@ -178,8 +178,8 @@
         "PR"
       ],
       "fase": "resposta",
-      "situacao": "Nos quatro primeiros dias de novembro, tempestades, granizo e vendavais atingiram 38 municípios paranaenses, segundo a Defesa Civil. Maringá foi atingida por um tornado F2 e decretou emergência, assim como Marquinho, onde um vendaval danificou 270 casas. Em Guaíra, o granizo afetou 2 mil pessoas. Entre outubro e novembro, cerca de 194 mil pessoas foram afetadas no estado. Em 20/11, um novo vendaval atingiu sete municípios, segundo a Defesa Civil do Paraná citada pelo MIDR em 22/11. Foram 945 pessoas afetadas e 237 casas danificadas. Foz do Iguaçu teve o maior número de atingidos, 400 pessoas.",
-      "data": "2026-11-22",
+      "situacao": "Nos quatro primeiros dias de novembro, tempestades, granizo e vendavais atingiram 38 municípios paranaenses, segundo a Defesa Civil. Maringá foi atingida por um tornado F2 e decretou emergência, assim como Marquinho, onde um vendaval danificou 270 casas. Em Guaíra, o granizo afetou 2 mil pessoas. Entre outubro e novembro, cerca de 194 mil pessoas foram afetadas no estado. Em 20/11, um novo vendaval atingiu sete municípios, segundo a Defesa Civil do Paraná citada pelo MIDR em 22/11. Foram 945 pessoas afetadas e 237 casas danificadas. Foz do Iguaçu teve o maior número de atingidos, 400 pessoas. Em 24/11, a Defesa Civil Nacional reconheceu emergência em mais seis cidades paranaenses: Abatiá, Goioxim e Rebouças por chuvas fortes, Cândido de Abreu por enxurrada, São Sebastião da Amoreira por vendaval e Guaíra por granizo.",
+      "data": "2026-11-24",
       "quem": [
         {
           "nome": "Defesa Civil do Paraná",
@@ -194,6 +194,11 @@
       ],
       "fontes": [
         {
+          "titulo": "Reconhecida emergência em 30 cidades afetadas por desastres (24/11/2026)",
+          "url": "https://www.gov.br/mdr/pt-br/noticias/reconhecida-emergencia-em-30-cidades-afetadas-por-desastres",
+          "tipo": "oficial"
+        },
+        {
           "titulo": "Técnicos de plantão agilizam socorro em municípios afetados pela chuva (22/11/2026)",
           "url": "https://www.gov.br/mdr/pt-br/noticias/tecnicos-de-plantao-agilizam-socorro-em-municipios-afetados-pela-chuva",
           "tipo": "oficial"
@@ -201,6 +206,58 @@
         {
           "titulo": "194 mil pessoas foram afetadas por desastres entre outubro e novembro no Paraná (04/11/2026)",
           "url": "https://www.brasildefato.com.br/2026/11/04/194-mil-pessoas-foram-afetadas-por-desastres-ambientais-entre-outubro-e-novembro-no-parana/",
+          "tipo": "imprensa"
+        }
+      ]
+    },
+    {
+      "id": "ms-temporais",
+      "nome": "Chuvas em Mato Grosso do Sul",
+      "tipo": "enchente",
+      "ufs": [
+        "MS"
+      ],
+      "fase": "resposta",
+      "situacao": "Entre 19 e 21/11, chuvas de cerca de 230 mm alagaram bairros de Porto Murtinho, no Pantanal. Em 23/11, a correnteza rompeu um trecho da BR-267, único acesso por estrada, e a cidade ficou isolada. Cerca de 60 pessoas foram atingidas e seis famílias foram para o ginásio municipal. Não houve mortes. Em 24/11, o governo estadual reconheceu a emergência no município por 180 dias. Ponta Porã também decretou emergência por 180 dias após o temporal. Segundo o governo de MS, o centro de coordenação estadual acompanha 19 municípios prioritários, com alagamentos, enxurradas e estradas danificadas.",
+      "data": "2026-11-24",
+      "quem": [
+        {
+          "nome": "Defesa Civil de Mato Grosso do Sul",
+          "faz": "Faz o levantamento de danos e coordena o apoio aos municípios atingidos pelas chuvas.",
+          "url": "https://www.defesacivil.ms.gov.br/",
+          "tipo": "governo"
+        },
+        {
+          "nome": "Corpo de Bombeiros Militar de MS",
+          "faz": "Retira moradores de áreas alagadas, faz resgates e orienta quem saiu de casa a não voltar sem autorização.",
+          "url": "https://www.bombeiros.ms.gov.br/",
+          "tipo": "governo"
+        }
+      ],
+      "como_ajudar": [
+        "Em emergência, ligue 199 (Defesa Civil) ou 193 (Bombeiros).",
+        "Cadastre o CEP para receber alertas da Defesa Civil por SMS: mande o CEP para 40199.",
+        "Doe só por canal oficial do estado, da prefeitura ou de entidade conhecida, e desconfie de vaquinhas sem origem clara."
+      ],
+      "fontes": [
+        {
+          "titulo": "Governo de MS mobiliza equipes e estrutura para apoiar municípios afetados pelas chuvas (23/11/2026)",
+          "url": "https://agenciadenoticias.ms.gov.br/governo-de-ms-mobiliza-equipes-e-estrutura-para-apoiar-municipios-afetados-pelas-chuvas/",
+          "tipo": "oficial"
+        },
+        {
+          "titulo": "MS reconhece situação de emergência após temporal deixar Porto Murtinho isolada (24/11/2026)",
+          "url": "https://midiamax.com.br/cotidiano/2026/ms-reconhece-situacao-emergencia-apos-temporal-deixar-porto-murtinho-isolada/",
+          "tipo": "imprensa"
+        },
+        {
+          "titulo": "Estado reconhece situação de emergência de Porto Murtinho (24/11/2026)",
+          "url": "https://www.campograndenews.com.br/cidades/interior/estado-reconhece-situacao-de-emergencia-de-porto-murtinho",
+          "tipo": "imprensa"
+        },
+        {
+          "titulo": "Temporal leva Ponta Porã a decretar emergência por 180 dias (24/11/2026)",
+          "url": "https://www.campograndenews.com.br/cidades/interior/temporal-leva-ponta-pora-a-decretar-emergencia-por-180-dias",
           "tipo": "imprensa"
         }
       ]
@@ -326,8 +383,8 @@
         "PA"
       ],
       "fase": "resposta",
-      "situacao": "A Defesa Civil Nacional reconheceu em 15/11 a situação de emergência em 61 municípios do Pará atingidos por incêndios florestais. Em 18/11, mais cinco entraram na lista: Curuá e Terra Alta por estiagem, e Curralinho, Nova Timboteua e Santarém por incêndios. São 66 municípios com reconhecimento federal. Outros 50 municípios já estavam em emergência por queimadas e estiagem. De 1º de janeiro a 14 de novembro, o Inpe registrou 30.015 focos de queimada no estado, 142% a mais que no mesmo período de 2025. O governo estadual declarou emergência ambiental e climática em todo o Pará por 120 dias.",
-      "data": "2026-11-18",
+      "situacao": "A Defesa Civil Nacional reconheceu em 15/11 a situação de emergência em 61 municípios do Pará atingidos por incêndios florestais. Em 18/11, mais cinco entraram na lista: Curuá e Terra Alta por estiagem, e Curralinho, Nova Timboteua e Santarém por incêndios. São 66 municípios com reconhecimento federal. Em 24/11, Bujaru, Ourém e São Sebastião da Boa Vista também tiveram a emergência por incêndios florestais reconhecida. Outros 50 municípios já estavam em emergência por queimadas e estiagem. De 1º de janeiro a 14 de novembro, o Inpe registrou 30.015 focos de queimada no estado, 142% a mais que no mesmo período de 2025. O governo estadual declarou emergência ambiental e climática em todo o Pará por 120 dias.",
+      "data": "2026-11-24",
       "quem": [
         {
           "nome": "Defesa Civil Nacional (MIDR)",
@@ -354,6 +411,11 @@
         "Acompanhe os avisos da Defesa Civil e os canais oficiais do governo do Pará."
       ],
       "fontes": [
+        {
+          "titulo": "Reconhecida emergência em 30 cidades afetadas por desastres (24/11/2026)",
+          "url": "https://www.gov.br/mdr/pt-br/noticias/reconhecida-emergencia-em-30-cidades-afetadas-por-desastres",
+          "tipo": "oficial"
+        },
         {
           "titulo": "Reconhecida emergência em cinco cidades paraenses afetadas por desastres (18/11/2026)",
           "url": "https://www.gov.br/mdr/pt-br/noticias/reconhecida-emergencia-em-cinco-cidades-paraenses-afetadas-por-desastres",
@@ -434,8 +496,8 @@
         "MA"
       ],
       "fase": "prevencao",
-      "situacao": "O governo do Ceará declarou situação de emergência em 65 municípios por causa do El Niño, em decreto publicado em 13/11 e válido por 180 dias. A Funceme classifica o El Niño como muito forte e prevê cenário desfavorável para a quadra chuvosa de 2027. Em setembro, 47 açudes analisados no Nordeste tinham menos de 10% de água. A Embrapa lembra que a região entra neste episódio com mais água guardada do que em 2015/2016. Em 23/11, a Defesa Civil Nacional reconheceu emergência em mais seis cidades da Bahia: cinco por estiagem, entre elas Vitória da Conquista e Ibotirama, e Itaberaba por seca.",
-      "data": "2026-11-23",
+      "situacao": "O governo do Ceará declarou situação de emergência em 65 municípios por causa do El Niño, em decreto publicado em 13/11 e válido por 180 dias. A Funceme classifica o El Niño como muito forte e prevê cenário desfavorável para a quadra chuvosa de 2027. Em setembro, 47 açudes analisados no Nordeste tinham menos de 10% de água. A Embrapa lembra que a região entra neste episódio com mais água guardada do que em 2015/2016. Em 23/11, a Defesa Civil Nacional reconheceu emergência em mais seis cidades da Bahia: cinco por estiagem, entre elas Vitória da Conquista e Ibotirama, e Itaberaba por seca. Em 24/11, mais dez cidades do Nordeste entraram na lista. Por estiagem: Delmiro Gouveia e Pariconha (AL), Irará, Nova Fátima e Nova Redenção (BA), Crateús (CE), Ibiara e Tacima (PB). Por seca: Ibicuitinga (CE) e Porto da Folha (SE).",
+      "data": "2026-11-24",
       "quem": [
         {
           "nome": "Defesa Civil do Ceará",
@@ -473,6 +535,11 @@
         "Quem produz no Semiárido: procure a assistência técnica da Embrapa ou da extensão rural do estado antes do plantio."
       ],
       "fontes": [
+        {
+          "titulo": "Reconhecida emergência em 30 cidades afetadas por desastres (24/11/2026)",
+          "url": "https://www.gov.br/mdr/pt-br/noticias/reconhecida-emergencia-em-30-cidades-afetadas-por-desastres",
+          "tipo": "oficial"
+        },
         {
           "titulo": "Reconhecida emergência em seis cidades baianas afetadas por desastres (23/11/2026)",
           "url": "https://www.gov.br/mdr/pt-br/noticias/reconhecida-emergencia-em-seis-cidades-baianas-afetadas-por-desastres-1",
