@@ -296,8 +296,8 @@
         "ES"
       ],
       "fase": "resposta",
-      "situacao": "Em 24/11, o rio Muqui do Sul subiu mais de 4 metros e inundou bairros de Mimoso do Sul, no Sul do estado. Cerca de 500 pessoas tiveram que sair de casa, segundo a prefeitura, e moradores isolados foram resgatados. Três pacientes em tratamento foram levados de helicóptero porque as estradas ficaram bloqueadas. Sete municípios decretaram situação de emergência: Apiacá, Mimoso do Sul, Jaguaré, Guaçuí, Cachoeiro de Itapemirim, Nova Venécia e Santa Leopoldina. A Defesa Civil prevê mais chuva forte, com 70 a 100 mm na quinta-feira, 26/11.",
-      "data": "2026-11-24",
+      "situacao": "Em 24/11, o rio Muqui do Sul subiu mais de 4 metros e inundou bairros de Mimoso do Sul, no Sul do estado. Cerca de 500 pessoas tiveram que sair de casa, segundo a prefeitura, e moradores isolados foram resgatados. Três pacientes em tratamento foram levados de helicóptero porque as estradas ficaram bloqueadas. Sete municípios decretaram situação de emergência: Apiacá, Mimoso do Sul, Jaguaré, Guaçuí, Cachoeiro de Itapemirim, Nova Venécia e Santa Leopoldina. A Defesa Civil prevê mais chuva forte, com 70 a 100 mm na quinta-feira, 26/11. Em Alfredo Chaves, na região serrana, um temporal no domingo, 22/11, causou alagamentos e deslizamentos em São Bento de Urânia e localidades vizinhas. A prefeitura decretou emergência por 180 dias em 24/11. A estimativa preliminar da Defesa Civil municipal é de 1.176 pessoas afetadas.",
+      "data": "2026-11-25",
       "quem": [
         {
           "nome": "Defesa Civil do Espírito Santo",
@@ -312,6 +312,16 @@
         "Doe só por canal oficial do estado, da prefeitura ou de entidade conhecida, e desconfie de vaquinhas sem origem clara."
       ],
       "fontes": [
+        {
+          "titulo": "Fortes chuvas levam Alfredo Chaves a decretar situação de emergência (25/11/2026)",
+          "url": "https://aquinoticias.com/2026/11/fortes-chuvas-levam-alfredo-chaves-a-decretar-situacao-de-emergencia/",
+          "tipo": "imprensa"
+        },
+        {
+          "titulo": "Emergência em Alfredo Chaves é decretada por 180 dias após chuvas atingirem 1.176 moradores (25/11/2026)",
+          "url": "https://www.informecapixaba.com.br/2026/11/25/emergencia-alfredo-chaves/",
+          "tipo": "imprensa"
+        },
         {
           "titulo": "Chuva provoca inundação, tira 500 pessoas de casa e faz 7 cidades decretarem situação de emergência no ES (24/11/2026)",
           "url": "https://g1.globo.com/es/espirito-santo/sul-es/noticia/2026/11/24/chuva-no-es-rio-transborda-deixa-desalojados-e-faz-cidade-decretar-situacao-de-emergencia.ghtml",
@@ -450,8 +460,8 @@
         "PA"
       ],
       "fase": "resposta",
-      "situacao": "A Defesa Civil Nacional reconheceu em 15/11 a situação de emergência em 61 municípios do Pará atingidos por incêndios florestais. Em 18/11, mais cinco entraram na lista: Curuá e Terra Alta por estiagem, e Curralinho, Nova Timboteua e Santarém por incêndios. São 66 municípios com reconhecimento federal. Em 24/11, Bujaru, Ourém e São Sebastião da Boa Vista também tiveram a emergência por incêndios florestais reconhecida. Outros 50 municípios já estavam em emergência por queimadas e estiagem. De 1º de janeiro a 14 de novembro, o Inpe registrou 30.015 focos de queimada no estado, 142% a mais que no mesmo período de 2025. O governo estadual declarou emergência ambiental e climática em todo o Pará por 120 dias.",
-      "data": "2026-11-24",
+      "situacao": "A Defesa Civil Nacional reconheceu em 15/11 a situação de emergência em 61 municípios do Pará atingidos por incêndios florestais. Em 18/11, mais cinco entraram na lista: Curuá e Terra Alta por estiagem, e Curralinho, Nova Timboteua e Santarém por incêndios. São 66 municípios com reconhecimento federal. Em 24/11, Bujaru, Ourém e São Sebastião da Boa Vista também tiveram a emergência por incêndios florestais reconhecida. Outros 50 municípios já estavam em emergência por queimadas e estiagem. De 1º de janeiro a 14 de novembro, o Inpe registrou 30.015 focos de queimada no estado, 142% a mais que no mesmo período de 2025. O governo estadual declarou emergência ambiental e climática em todo o Pará por 120 dias. Em 24/11, Altamira publicou decreto de emergência por estiagem em todo o município, por 180 dias. Segundo a prefeitura, choveu 31,6 mm entre agosto e outubro, contra 104 mm no mesmo período de 2025. O município teve 2.155 focos de calor de 1º de janeiro a 14 de novembro, quase o triplo de todo o ano de 2025.",
+      "data": "2026-11-25",
       "quem": [
         {
           "nome": "Defesa Civil Nacional (MIDR)",
@@ -478,6 +488,11 @@
         "Acompanhe os avisos da Defesa Civil e os canais oficiais do governo do Pará."
       ],
       "fontes": [
+        {
+          "titulo": "Altamira decreta situação de emergência em razão da estiagem prolongada (Prefeitura de Altamira, 26/11/2026)",
+          "url": "https://altamira.pa.gov.br/altamira-decreta-situacao-de-emergencia-em-razao-da-estiagem-prolongada/",
+          "tipo": "oficial"
+        },
         {
           "titulo": "Reconhecida emergência em 30 cidades afetadas por desastres (24/11/2026)",
           "url": "https://www.gov.br/mdr/pt-br/noticias/reconhecida-emergencia-em-30-cidades-afetadas-por-desastres",
