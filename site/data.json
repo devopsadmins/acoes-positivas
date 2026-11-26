@@ -21,8 +21,8 @@
         "RS"
       ],
       "fase": "resposta",
-      "situacao": "Na madrugada de 20/11, uma supercélula com ventos de 114 km/h devastou Tupanciretã, na região Central. Segundo a Defesa Civil estadual, em 22/11, o município tem 5 mortos, 265 feridos, 20.090 afetados, 19.780 desalojados e 7.796 casas destelhadas. Desde 16/11, os temporais atingiram 42 municípios e 25.123 pessoas no estado. A Defesa Civil Nacional reconheceu calamidade pública em Tupanciretã em 21/11. No começo de novembro, outra sequência de tempestades e tornados já tinha afetado 70.491 pessoas em 136 municípios. O Painel El Niño prevê chuva acima da média no Sul até janeiro. Em 23/11, o MIDR avisou que uma nova tempestade deve atingir o Sul em 24/11, com aviso vermelho do Inmet para chuva acima de 100 mm por dia, ventos acima de 100 km/h e granizo.",
-      "data": "2026-11-23",
+      "situacao": "Na madrugada de 20/11, uma supercélula com ventos de 114 km/h devastou Tupanciretã, na região Central. Segundo a Defesa Civil estadual, em 22/11, o município tem 5 mortos, 265 feridos, 20.090 afetados, 19.780 desalojados e 7.796 casas destelhadas. Desde 16/11, os temporais atingiram 42 municípios e 25.123 pessoas no estado. A Defesa Civil Nacional reconheceu calamidade pública em Tupanciretã em 21/11. No começo de novembro, outra sequência de tempestades e tornados já tinha afetado 70.491 pessoas em 136 municípios. O Painel El Niño prevê chuva acima da média no Sul até janeiro. Em 23/11, o MIDR avisou que uma nova tempestade deve atingir o Sul em 24/11, com aviso vermelho do Inmet para chuva acima de 100 mm por dia, ventos acima de 100 km/h e granizo. Em 26/11, a Defesa Civil Nacional reconheceu emergência em mais quatro cidades gaúchas: Caiçara e União da Serra por chuvas fortes, Ibiaçá por enxurrada e Charrua por granizo.",
+      "data": "2026-11-26",
       "quem": [
         {
           "nome": "Defesa Civil do RS",
@@ -73,6 +73,11 @@
         "Quem mora no Vale do Taquari ou perto dos rios dos Sinos, Jacuí e Uruguai: tenha rota de saída e documentos em saco plástico."
       ],
       "fontes": [
+        {
+          "titulo": "Reconhecida emergência em 117 cidades afetadas por desastres (26/11/2026)",
+          "url": "https://www.gov.br/mdr/pt-br/noticias/reconhecida-emergencia-em-117-cidades-afetadas-por-desastres",
+          "tipo": "oficial"
+        },
         {
           "titulo": "Sobe para R$ 8 milhões verba federal para socorro a Tupanciretã (23/11/2026)",
           "url": "https://www.gov.br/mdr/pt-br/noticias/sobe-para-r-8-milhoes-verba-federal-para-socorro-a-tupancireta-rs",
@@ -138,8 +143,8 @@
         "SC"
       ],
       "fase": "resposta",
-      "situacao": "Os temporais desde 1º de novembro afetaram 126 municípios catarinenses e atingiram 6.423 moradias, segundo balanço da Defesa Civil estadual de 07/11. Duas pessoas morreram, em Xanxerê e Rio Negrinho. São 100 desabrigados e 557 desalojados. 62 municípios estão em situação de emergência. Houve tornados em Chapecó e Xanxerê, e o Oeste segue sob alerta de novos temporais. Na nova onda de chuva, até 22/11, 34 cidades foram afetadas, com 54 desalojados e dois desabrigados, segundo o MIDR.",
-      "data": "2026-11-22",
+      "situacao": "Os temporais desde 1º de novembro afetaram 126 municípios catarinenses e atingiram 6.423 moradias, segundo balanço da Defesa Civil estadual de 07/11. Duas pessoas morreram, em Xanxerê e Rio Negrinho. São 100 desabrigados e 557 desalojados. 62 municípios estão em situação de emergência. Houve tornados em Chapecó e Xanxerê, e o Oeste segue sob alerta de novos temporais. Na nova onda de chuva, até 22/11, 34 cidades foram afetadas, com 54 desalojados e dois desabrigados, segundo o MIDR. Em 26/11, a Defesa Civil Nacional reconheceu a emergência por enxurrada em Romelândia.",
+      "data": "2026-11-26",
       "quem": [
         {
           "nome": "Defesa Civil de Santa Catarina",
@@ -153,6 +158,11 @@
         "Doe só por canal oficial do estado, da prefeitura ou de entidade conhecida, e desconfie de vaquinhas sem origem clara."
       ],
       "fontes": [
+        {
+          "titulo": "Reconhecida emergência em 117 cidades afetadas por desastres (26/11/2026)",
+          "url": "https://www.gov.br/mdr/pt-br/noticias/reconhecida-emergencia-em-117-cidades-afetadas-por-desastres",
+          "tipo": "oficial"
+        },
         {
           "titulo": "Técnicos de plantão agilizam socorro em municípios afetados pela chuva (22/11/2026)",
           "url": "https://www.gov.br/mdr/pt-br/noticias/tecnicos-de-plantao-agilizam-socorro-em-municipios-afetados-pela-chuva",
@@ -178,8 +188,8 @@
         "PR"
       ],
       "fase": "resposta",
-      "situacao": "Nos quatro primeiros dias de novembro, tempestades, granizo e vendavais atingiram 38 municípios paranaenses, segundo a Defesa Civil. Maringá foi atingida por um tornado F2 e decretou emergência, assim como Marquinho, onde um vendaval danificou 270 casas. Em Guaíra, o granizo afetou 2 mil pessoas. Entre outubro e novembro, cerca de 194 mil pessoas foram afetadas no estado. Em 20/11, um novo vendaval atingiu sete municípios, segundo a Defesa Civil do Paraná citada pelo MIDR em 22/11. Foram 945 pessoas afetadas e 237 casas danificadas. Foz do Iguaçu teve o maior número de atingidos, 400 pessoas. Em 24/11, a Defesa Civil Nacional reconheceu emergência em mais seis cidades paranaenses: Abatiá, Goioxim e Rebouças por chuvas fortes, Cândido de Abreu por enxurrada, São Sebastião da Amoreira por vendaval e Guaíra por granizo. Entre 23 e 25/11, a passagem de uma frente fria trouxe enxurradas e alagamentos. Segundo a Defesa Civil estadual, citada pelo g1 em 25/11, seis pessoas morreram e 40 cidades registraram desastres. As mortes foram em Campo Largo, Nova Esperança do Sudoeste, Verê e Mato Rico. No boletim das 17h de 25/11, a Defesa Civil estadual contou 50 municípios atingidos desde 23/11, com 12.197 pessoas afetadas, 2.585 desalojadas e 251 desabrigadas. São 1.752 casas danificadas e 13 destruídas. Em Renascença, 20 pessoas foram para abrigos públicos. Em 25/11, o governo do estado homologou a situação de emergência em Ampére, Verê e Nova Esperança do Sudoeste, atingidas pelo temporal de 24/11. Segundo o governo, em Ampére são 4.700 pessoas afetadas, 1.500 fora de casa e 200 desabrigadas. Em Nova Esperança do Sudoeste, 400 pessoas estão desabrigadas e 400 desalojadas.",
-      "data": "2026-11-25",
+      "situacao": "Nos quatro primeiros dias de novembro, tempestades, granizo e vendavais atingiram 38 municípios paranaenses, segundo a Defesa Civil. Maringá foi atingida por um tornado F2 e decretou emergência, assim como Marquinho, onde um vendaval danificou 270 casas. Em Guaíra, o granizo afetou 2 mil pessoas. Entre outubro e novembro, cerca de 194 mil pessoas foram afetadas no estado. Em 20/11, um novo vendaval atingiu sete municípios, segundo a Defesa Civil do Paraná citada pelo MIDR em 22/11. Foram 945 pessoas afetadas e 237 casas danificadas. Foz do Iguaçu teve o maior número de atingidos, 400 pessoas. Em 24/11, a Defesa Civil Nacional reconheceu emergência em mais seis cidades paranaenses: Abatiá, Goioxim e Rebouças por chuvas fortes, Cândido de Abreu por enxurrada, São Sebastião da Amoreira por vendaval e Guaíra por granizo. Entre 23 e 25/11, a passagem de uma frente fria trouxe enxurradas e alagamentos. Segundo a Defesa Civil estadual, citada pelo g1 em 25/11, seis pessoas morreram e 40 cidades registraram desastres. As mortes foram em Campo Largo, Nova Esperança do Sudoeste, Verê e Mato Rico. No boletim das 17h de 25/11, a Defesa Civil estadual contou 50 municípios atingidos desde 23/11, com 12.197 pessoas afetadas, 2.585 desalojadas e 251 desabrigadas. São 1.752 casas danificadas e 13 destruídas. Em Renascença, 20 pessoas foram para abrigos públicos. Em 25/11, o governo do estado homologou a situação de emergência em Ampére, Verê e Nova Esperança do Sudoeste, atingidas pelo temporal de 24/11. Segundo o governo, em Ampére são 4.700 pessoas afetadas, 1.500 fora de casa e 200 desabrigadas. Em Nova Esperança do Sudoeste, 400 pessoas estão desabrigadas e 400 desalojadas. Em 26/11, a Defesa Civil Nacional reconheceu emergência em mais nove cidades paranaenses: Cruz Machado, Francisco Beltrão, Honório Serpa, Jaguariaíva e Pitanga por chuvas intensas, Marquinho e Pérola d'Oeste por enxurrada, Piraí do Sul por inundação e Bandeirantes por vendaval.",
+      "data": "2026-11-26",
       "quem": [
         {
           "nome": "Defesa Civil do Paraná",
@@ -199,6 +209,11 @@
         "Doe só por canal oficial do estado, da prefeitura ou de entidade conhecida, e desconfie de vaquinhas sem origem clara."
       ],
       "fontes": [
+        {
+          "titulo": "Reconhecida emergência em nove cidades paranaenses afetadas por desastres (26/11/2026)",
+          "url": "https://www.gov.br/mdr/pt-br/noticias/reconhecida-emergencia-em-nove-cidades-paranaenses-afetadas-por-desastres",
+          "tipo": "oficial"
+        },
         {
           "titulo": "Três cidades do Paraná têm decretos de Situação de Emergência homologados; quase 3 mil pessoas ficaram desalojadas ou desabrigadas (25/11/2026)",
           "url": "https://g1.globo.com/pr/oeste-sudoeste/noticia/2026/11/25/cidades-parana-decreto-emergencia-homologados.ghtml",
@@ -244,8 +259,8 @@
         "MS"
       ],
       "fase": "resposta",
-      "situacao": "Entre 19 e 21/11, chuvas de cerca de 230 mm alagaram bairros de Porto Murtinho, no Pantanal. Em 23/11, a correnteza rompeu um trecho da BR-267, único acesso por estrada, e a cidade ficou isolada. Cerca de 60 pessoas foram atingidas e seis famílias foram para o ginásio municipal. Não houve mortes. Em 24/11, o governo estadual reconheceu a emergência no município por 180 dias. Ponta Porã também decretou emergência por 180 dias após o temporal. Segundo o governo de MS, o centro de coordenação estadual acompanha 19 municípios prioritários, com alagamentos, enxurradas e estradas danificadas.",
-      "data": "2026-11-24",
+      "situacao": "Entre 19 e 21/11, chuvas de cerca de 230 mm alagaram bairros de Porto Murtinho, no Pantanal. Em 23/11, a correnteza rompeu um trecho da BR-267, único acesso por estrada, e a cidade ficou isolada. Cerca de 60 pessoas foram atingidas e seis famílias foram para o ginásio municipal. Não houve mortes. Em 24/11, o governo estadual reconheceu a emergência no município por 180 dias. Ponta Porã também decretou emergência por 180 dias após o temporal. Segundo o governo de MS, o centro de coordenação estadual acompanha 19 municípios prioritários, com alagamentos, enxurradas e estradas danificadas. Em 26/11, a Defesa Civil Nacional reconheceu a emergência por chuvas fortes em Porto Murtinho.",
+      "data": "2026-11-26",
       "quem": [
         {
           "nome": "Defesa Civil de Mato Grosso do Sul",
@@ -266,6 +281,11 @@
         "Doe só por canal oficial do estado, da prefeitura ou de entidade conhecida, e desconfie de vaquinhas sem origem clara."
       ],
       "fontes": [
+        {
+          "titulo": "Reconhecida emergência em 117 cidades afetadas por desastres (26/11/2026)",
+          "url": "https://www.gov.br/mdr/pt-br/noticias/reconhecida-emergencia-em-117-cidades-afetadas-por-desastres",
+          "tipo": "oficial"
+        },
         {
           "titulo": "Governo de MS mobiliza equipes e estrutura para apoiar municípios afetados pelas chuvas (23/11/2026)",
           "url": "https://agenciadenoticias.ms.gov.br/governo-de-ms-mobiliza-equipes-e-estrutura-para-apoiar-municipios-afetados-pelas-chuvas/",
@@ -397,8 +417,8 @@
         "RR"
       ],
       "fase": "resposta",
-      "situacao": "A estiagem atinge 169.733 famílias no Amazonas, segundo boletim da Defesa Civil estadual de 21/11. São 54 dos 62 municípios em emergência, com a entrada de Barcelos e São Gabriel da Cachoeira, e outros 8 em alerta, entre eles Manaus. Em 21/11, o rio Negro marcou 15,91 metros na capital. De 1º de junho a 15 de novembro, os bombeiros combateram 25.075 focos de incêndio no estado. Comunidades ribeirinhas ficam isoladas quando os rios baixam. Roraima e Acre também tiveram agravamento da seca em agosto.",
-      "data": "2026-11-21",
+      "situacao": "A estiagem atinge 169.733 famílias no Amazonas, segundo boletim da Defesa Civil estadual de 21/11. São 54 dos 62 municípios em emergência, com a entrada de Barcelos e São Gabriel da Cachoeira, e outros 8 em alerta, entre eles Manaus. Em 21/11, o rio Negro marcou 15,91 metros na capital. De 1º de junho a 15 de novembro, os bombeiros combateram 25.075 focos de incêndio no estado. Comunidades ribeirinhas ficam isoladas quando os rios baixam. Roraima e Acre também tiveram agravamento da seca em agosto. Em 26/11, a Defesa Civil Nacional reconheceu a emergência por estiagem em Pauini e Urucurituba.",
+      "data": "2026-11-26",
       "quem": [
         {
           "nome": "Defesa Civil do Amazonas",
@@ -431,6 +451,11 @@
       ],
       "fontes": [
         {
+          "titulo": "Reconhecida emergência em 117 cidades afetadas por desastres (26/11/2026)",
+          "url": "https://www.gov.br/mdr/pt-br/noticias/reconhecida-emergencia-em-117-cidades-afetadas-por-desastres",
+          "tipo": "oficial"
+        },
+        {
           "titulo": "Seca no AM: municípios em emergência sobem de 52 para 54; quase 170 mil famílias são afetadas (21/11/2026)",
           "url": "https://g1.globo.com/am/amazonas/noticia/2026/11/21/seca-no-am-municipios-em-emergencia-sobem-de-52-para-54-quase-170-mil-familias-sao-afetadas.ghtml",
           "tipo": "imprensa"
@@ -460,8 +485,8 @@
         "PA"
       ],
       "fase": "resposta",
-      "situacao": "A Defesa Civil Nacional reconheceu em 15/11 a situação de emergência em 61 municípios do Pará atingidos por incêndios florestais. Em 18/11, mais cinco entraram na lista: Curuá e Terra Alta por estiagem, e Curralinho, Nova Timboteua e Santarém por incêndios. São 66 municípios com reconhecimento federal. Em 24/11, Bujaru, Ourém e São Sebastião da Boa Vista também tiveram a emergência por incêndios florestais reconhecida. Outros 50 municípios já estavam em emergência por queimadas e estiagem. De 1º de janeiro a 14 de novembro, o Inpe registrou 30.015 focos de queimada no estado, 142% a mais que no mesmo período de 2025. O governo estadual declarou emergência ambiental e climática em todo o Pará por 120 dias. Em 24/11, Altamira publicou decreto de emergência por estiagem em todo o município, por 180 dias. Segundo a prefeitura, choveu 31,6 mm entre agosto e outubro, contra 104 mm no mesmo período de 2025. O município teve 2.155 focos de calor de 1º de janeiro a 14 de novembro, quase o triplo de todo o ano de 2025.",
-      "data": "2026-11-25",
+      "situacao": "A Defesa Civil Nacional reconheceu em 15/11 a situação de emergência em 61 municípios do Pará atingidos por incêndios florestais. Em 18/11, mais cinco entraram na lista: Curuá e Terra Alta por estiagem, e Curralinho, Nova Timboteua e Santarém por incêndios. São 66 municípios com reconhecimento federal. Em 24/11, Bujaru, Ourém e São Sebastião da Boa Vista também tiveram a emergência por incêndios florestais reconhecida. Outros 50 municípios já estavam em emergência por queimadas e estiagem. De 1º de janeiro a 14 de novembro, o Inpe registrou 30.015 focos de queimada no estado, 142% a mais que no mesmo período de 2025. O governo estadual declarou emergência ambiental e climática em todo o Pará por 120 dias. Em 24/11, Altamira publicou decreto de emergência por estiagem em todo o município, por 180 dias. Segundo a prefeitura, choveu 31,6 mm entre agosto e outubro, contra 104 mm no mesmo período de 2025. O município teve 2.155 focos de calor de 1º de janeiro a 14 de novembro, quase o triplo de todo o ano de 2025. Em 26/11, Cametá e Tucuruí tiveram a emergência por estiagem reconhecida pela Defesa Civil Nacional.",
+      "data": "2026-11-26",
       "quem": [
         {
           "nome": "Defesa Civil Nacional (MIDR)",
@@ -488,6 +513,11 @@
         "Acompanhe os avisos da Defesa Civil e os canais oficiais do governo do Pará."
       ],
       "fontes": [
+        {
+          "titulo": "Reconhecida emergência em 117 cidades afetadas por desastres (26/11/2026)",
+          "url": "https://www.gov.br/mdr/pt-br/noticias/reconhecida-emergencia-em-117-cidades-afetadas-por-desastres",
+          "tipo": "oficial"
+        },
         {
           "titulo": "Altamira decreta situação de emergência em razão da estiagem prolongada (Prefeitura de Altamira, 26/11/2026)",
           "url": "https://altamira.pa.gov.br/altamira-decreta-situacao-de-emergencia-em-razao-da-estiagem-prolongada/",
@@ -580,11 +610,12 @@
         "SE",
         "BA",
         "PI",
-        "MA"
+        "MA",
+        "MG"
       ],
       "fase": "prevencao",
-      "situacao": "O governo do Ceará declarou situação de emergência em 65 municípios por causa do El Niño, em decreto publicado em 13/11 e válido por 180 dias. A Funceme classifica o El Niño como muito forte e prevê cenário desfavorável para a quadra chuvosa de 2027. Em setembro, 47 açudes analisados no Nordeste tinham menos de 10% de água. A Embrapa lembra que a região entra neste episódio com mais água guardada do que em 2015/2016. Em 23/11, a Defesa Civil Nacional reconheceu emergência em mais seis cidades da Bahia: cinco por estiagem, entre elas Vitória da Conquista e Ibotirama, e Itaberaba por seca. Em 24/11, mais dez cidades do Nordeste entraram na lista. Por estiagem: Delmiro Gouveia e Pariconha (AL), Irará, Nova Fátima e Nova Redenção (BA), Crateús (CE), Ibiara e Tacima (PB). Por seca: Ibicuitinga (CE) e Porto da Folha (SE). Em 25/11, o governo de Pernambuco publicou o Decreto nº 61.763, que põe 33 municípios em situação de emergência por estiagem por 180 dias, entre eles Caruaru, Gravatá, Bezerros, Limoeiro, Surubim e Salgueiro. O decreto cita a queda dos reservatórios e o calor do El Niño. Com os novos decretos, Pernambuco soma 108 municípios em emergência por estiagem, 58% das 184 cidades do estado. Em 24/11, a Apac registrou 30 reservatórios do Agreste e do Sertão em colapso, abaixo de 10% da capacidade, e seis com volume zerado.",
-      "data": "2026-11-25",
+      "situacao": "O governo do Ceará declarou situação de emergência em 65 municípios por causa do El Niño, em decreto publicado em 13/11 e válido por 180 dias. A Funceme classifica o El Niño como muito forte e prevê cenário desfavorável para a quadra chuvosa de 2027. Em setembro, 47 açudes analisados no Nordeste tinham menos de 10% de água. A Embrapa lembra que a região entra neste episódio com mais água guardada do que em 2015/2016. Em 23/11, a Defesa Civil Nacional reconheceu emergência em mais seis cidades da Bahia: cinco por estiagem, entre elas Vitória da Conquista e Ibotirama, e Itaberaba por seca. Em 24/11, mais dez cidades do Nordeste entraram na lista. Por estiagem: Delmiro Gouveia e Pariconha (AL), Irará, Nova Fátima e Nova Redenção (BA), Crateús (CE), Ibiara e Tacima (PB). Por seca: Ibicuitinga (CE) e Porto da Folha (SE). Em 25/11, o governo de Pernambuco publicou o Decreto nº 61.763, que põe 33 municípios em situação de emergência por estiagem por 180 dias, entre eles Caruaru, Gravatá, Bezerros, Limoeiro, Surubim e Salgueiro. O decreto cita a queda dos reservatórios e o calor do El Niño. Com os novos decretos, Pernambuco soma 108 municípios em emergência por estiagem, 58% das 184 cidades do estado. Em 24/11, a Apac registrou 30 reservatórios do Agreste e do Sertão em colapso, abaixo de 10% da capacidade, e seis com volume zerado. Em 26/11, a Defesa Civil Nacional reconheceu emergência por seca em 96 municípios de Minas Gerais, a maioria no Norte de Minas e no Vale do Jequitinhonha, entre eles Janaúba, Januária, Teófilo Otoni, Pirapora e Araçuaí.",
+      "data": "2026-11-26",
       "quem": [
         {
           "nome": "Defesa Civil do Ceará",
@@ -622,6 +653,11 @@
         "Quem produz no Semiárido: procure a assistência técnica da Embrapa ou da extensão rural do estado antes do plantio."
       ],
       "fontes": [
+        {
+          "titulo": "Reconhecida emergência em 96 cidades mineiras afetadas pela seca (26/11/2026)",
+          "url": "https://www.gov.br/mdr/pt-br/noticias/reconhecida-emergencia-em-96-cidades-mineiras-afetadas-pela-seca",
+          "tipo": "oficial"
+        },
         {
           "titulo": "Pernambuco decreta situação de emergência em mais 33 cidades por conta da seca e número sobe para 108 (25/11/2026)",
           "url": "https://g1.globo.com/pe/pernambuco/noticia/2026/11/25/pernambuco-decreta-situacao-de-emergencia-em-33-cidades-por-conta-da-estiagem-e-do-el-nino-veja-lista.ghtml",
