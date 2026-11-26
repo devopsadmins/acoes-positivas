@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-11-25",
+  "atualizado": "2026-11-26",
   "destaque": {
     "titulo": "Amazônia tem o menor desmatamento desde 1988",
     "texto": "A estimativa do PRODES 2026 aponta 3.335 km² desmatados na Amazônia entre agosto de 2025 e julho de 2026. É uma queda de 41,8% sobre o ciclo anterior e o menor valor da série do INPE. O Cerrado também teve o menor valor desde 2001.",
@@ -178,7 +178,7 @@
         "PR"
       ],
       "fase": "resposta",
-      "situacao": "Nos quatro primeiros dias de novembro, tempestades, granizo e vendavais atingiram 38 municípios paranaenses, segundo a Defesa Civil. Maringá foi atingida por um tornado F2 e decretou emergência, assim como Marquinho, onde um vendaval danificou 270 casas. Em Guaíra, o granizo afetou 2 mil pessoas. Entre outubro e novembro, cerca de 194 mil pessoas foram afetadas no estado. Em 20/11, um novo vendaval atingiu sete municípios, segundo a Defesa Civil do Paraná citada pelo MIDR em 22/11. Foram 945 pessoas afetadas e 237 casas danificadas. Foz do Iguaçu teve o maior número de atingidos, 400 pessoas. Em 24/11, a Defesa Civil Nacional reconheceu emergência em mais seis cidades paranaenses: Abatiá, Goioxim e Rebouças por chuvas fortes, Cândido de Abreu por enxurrada, São Sebastião da Amoreira por vendaval e Guaíra por granizo. Entre 23 e 25/11, a passagem de uma frente fria trouxe enxurradas e alagamentos. Segundo a Defesa Civil estadual, citada pelo g1 em 25/11, seis pessoas morreram e 40 cidades registraram desastres. As mortes foram em Campo Largo, Nova Esperança do Sudoeste, Verê e Mato Rico. A estimativa é de 10 mil pessoas afetadas, e o balanço oficial ainda está em andamento. Em Renascença, 20 pessoas foram para abrigos públicos. Em 25/11, o governo do estado homologou a situação de emergência em Ampére, Verê e Nova Esperança do Sudoeste, atingidas pelo temporal de 24/11. Segundo o governo, em Ampére são 4.700 pessoas afetadas, 1.500 fora de casa e 200 desabrigadas. Em Nova Esperança do Sudoeste, 400 pessoas estão desabrigadas e 400 desalojadas.",
+      "situacao": "Nos quatro primeiros dias de novembro, tempestades, granizo e vendavais atingiram 38 municípios paranaenses, segundo a Defesa Civil. Maringá foi atingida por um tornado F2 e decretou emergência, assim como Marquinho, onde um vendaval danificou 270 casas. Em Guaíra, o granizo afetou 2 mil pessoas. Entre outubro e novembro, cerca de 194 mil pessoas foram afetadas no estado. Em 20/11, um novo vendaval atingiu sete municípios, segundo a Defesa Civil do Paraná citada pelo MIDR em 22/11. Foram 945 pessoas afetadas e 237 casas danificadas. Foz do Iguaçu teve o maior número de atingidos, 400 pessoas. Em 24/11, a Defesa Civil Nacional reconheceu emergência em mais seis cidades paranaenses: Abatiá, Goioxim e Rebouças por chuvas fortes, Cândido de Abreu por enxurrada, São Sebastião da Amoreira por vendaval e Guaíra por granizo. Entre 23 e 25/11, a passagem de uma frente fria trouxe enxurradas e alagamentos. Segundo a Defesa Civil estadual, citada pelo g1 em 25/11, seis pessoas morreram e 40 cidades registraram desastres. As mortes foram em Campo Largo, Nova Esperança do Sudoeste, Verê e Mato Rico. No boletim das 17h de 25/11, a Defesa Civil estadual contou 50 municípios atingidos desde 23/11, com 12.197 pessoas afetadas, 2.585 desalojadas e 251 desabrigadas. São 1.752 casas danificadas e 13 destruídas. Em Renascença, 20 pessoas foram para abrigos públicos. Em 25/11, o governo do estado homologou a situação de emergência em Ampére, Verê e Nova Esperança do Sudoeste, atingidas pelo temporal de 24/11. Segundo o governo, em Ampére são 4.700 pessoas afetadas, 1.500 fora de casa e 200 desabrigadas. Em Nova Esperança do Sudoeste, 400 pessoas estão desabrigadas e 400 desalojadas.",
       "data": "2026-11-25",
       "quem": [
         {
@@ -199,6 +199,11 @@
         "Doe só por canal oficial do estado, da prefeitura ou de entidade conhecida, e desconfie de vaquinhas sem origem clara."
       ],
       "fontes": [
+        {
+          "titulo": "Três cidades do Paraná têm decretos de Situação de Emergência homologados; quase 3 mil pessoas ficaram desalojadas ou desabrigadas (25/11/2026)",
+          "url": "https://g1.globo.com/pr/oeste-sudoeste/noticia/2026/11/25/cidades-parana-decreto-emergencia-homologados.ghtml",
+          "tipo": "imprensa"
+        },
         {
           "titulo": "Temporais: Estado homologa decretos de Situação de Emergência de três municípios (25/11/2026)",
           "url": "https://www.aen.pr.gov.br/Noticia/Temporais-Estado-homologa-decretos-de-Situacao-de-Emergencia-de-tres-municipios",
@@ -503,8 +508,8 @@
         "SE"
       ],
       "fase": "resposta",
-      "situacao": "O governo de Sergipe decretou em 18/11 situação de emergência por estiagem em Aracaju, Barra dos Coqueiros, Nossa Senhora do Socorro e São Cristóvão, por 180 dias. O motivo é a queda da Barragem do Poxim, que abastece cerca de 30% de Aracaju. Segundo o boletim do governo de 18/11, ela está com 19,9% do volume útil, em alerta. A Defesa Civil estadual também dá apoio técnico a 17 municípios do interior, sobretudo no alto e médio sertão.",
-      "data": "2026-11-18",
+      "situacao": "O governo de Sergipe decretou em 18/11 situação de emergência por estiagem em Aracaju, Barra dos Coqueiros, Nossa Senhora do Socorro e São Cristóvão, por 180 dias. O motivo é a queda da Barragem do Poxim, que abastece cerca de 30% de Aracaju. Segundo o boletim do governo de 18/11, ela está com 19,9% do volume útil, em alerta. A Defesa Civil estadual também dá apoio técnico a 17 municípios do interior, sobretudo no alto e médio sertão. Segundo a 8ª edição do Boletim do El Niño do governo, de 26/11, o Poxim caiu para 18,7% do volume útil e segue em alerta. O número de municípios com decreto de emergência por estiagem passou de 14 para 21. Os municípios em seca grave subiram de 4 para 15, e 75 cidades estão em alguma categoria de seca.",
+      "data": "2026-11-26",
       "quem": [
         {
           "nome": "Defesa Civil de Sergipe",
@@ -530,6 +535,11 @@
         "Guarde água só em recipiente limpo e tampado, para evitar a dengue."
       ],
       "fontes": [
+        {
+          "titulo": "Governo de Sergipe divulga 8ª edição do Boletim do El Niño com atualização do cenário de seca no estado (26/11/2026)",
+          "url": "https://www.se.gov.br/agencia/noticias/governo/governo_de_sergipe_divulga_8_edicao_do_boletim_do_el_ni_o_com_atualizacao_do_cenario_de_seca_no_estado",
+          "tipo": "oficial"
+        },
         {
           "titulo": "Defesa Civil estadual subsidiará ações de prevenção e resposta à estiagem na Grande Aracaju (18/11/2026)",
           "url": "https://www.se.gov.br/agencia/noticias/governo/defesa_civil_estadual_subsidiara_acoes_de_prevencao_e_resposta_a_estiagem_na_grande_aracaju",
