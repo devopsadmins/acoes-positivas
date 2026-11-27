@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-11-26",
+  "atualizado": "2026-11-27",
   "destaque": {
     "titulo": "Amazônia tem o menor desmatamento desde 1988",
     "texto": "A estimativa do PRODES 2026 aponta 3.335 km² desmatados na Amazônia entre agosto de 2025 e julho de 2026. É uma queda de 41,8% sobre o ciclo anterior e o menor valor da série do INPE. O Cerrado também teve o menor valor desde 2001.",
@@ -64,6 +64,12 @@
           "nome": "Ação da Cidadania",
           "faz": "Campanhas de alimentos e doações para famílias atingidas.",
           "url": "https://www.acaodacidadania.org.br/",
+          "tipo": "sociedade"
+        },
+        {
+          "nome": "Fundação Sicredi",
+          "faz": "Dobra cada real doado por Pix a Tupanciretã, até R$ 1 milhão no total, para comprar mantimentos, itens essenciais e materiais para as famílias. Vale para doações únicas de até R$ 10 mil. Confira se o favorecido é a Fundação Sicredi.",
+          "url": "https://www.otempo.com.br/brasil/2026/11/26/sicredi-destinara-ate-r-1-milhao-para-reforcar-doacoes-a-vitimas-de-temporal-no-rs",
           "tipo": "sociedade"
         }
       ],
