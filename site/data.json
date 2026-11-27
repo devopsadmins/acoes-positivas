@@ -208,10 +208,17 @@
           "faz": "Resgata pessoas ilhadas com embarcações e faz as buscas por desaparecidos nas enxurradas.",
           "url": "https://www.bombeiros.pr.gov.br/",
           "tipo": "governo"
+        },
+        {
+          "nome": "Arquidiocese de Curitiba",
+          "faz": "Desde 27/11, recebe em todas as suas paróquias alimentos de cesta básica, água potável, produtos de limpeza e itens de higiene para as cidades atingidas no Sudoeste do Paraná. A Defesa Civil do Paraná retira as doações e leva aos atingidos.",
+          "url": "https://arquidiocesedecuritiba.org.br/arquidiocese-de-curitiba-e-defesa-civil-promovem-campanha-de-arrecadacao-em-prol-de-cidades-atingidas-pelas-tempestades/",
+          "tipo": "sociedade"
         }
       ],
       "como_ajudar": [
         "Cadastre o CEP para receber alertas da Defesa Civil por SMS: mande o CEP para 40199.",
+        "Em Curitiba, leve alimentos, água, produtos de limpeza e itens de higiene a qualquer paróquia da Arquidiocese. A Defesa Civil do Paraná entrega as doações no Sudoeste.",
         "Doe só por canal oficial do estado, da prefeitura ou de entidade conhecida, e desconfie de vaquinhas sem origem clara."
       ],
       "fontes": [
